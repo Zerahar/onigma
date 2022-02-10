@@ -1,0 +1,7 @@
+base     bushwick
+author   desbest
+email    afaninthehouse@gmail.com
+date     2021-01-14
+name     Bushwick template
+desc     Designed by James Dinsdale and Automattic, converted by desbest
+url      https://www.dokuwiki.org/template:bushwick

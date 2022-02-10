@@ -1,0 +1,78 @@
+/* desbest edit */
+.page li { display: block; display: list-item; list-style: square; }
+.page ol { display: block; display: list-item; list-style: decimal; }
+
+#writtensidebar h1 {
+	font-size: 1rem;
+	line-height: 1.333333333333333;
+	margin-bottom: 1.333333333333333em;
+}
+#writtensidebar { width: 100% !important; clear: both; }
+#writtensidebar a { padding: 0px; background-image: none; }
+
+.site-header {
+	background: rgba(51, 71, 61, 0.05) url("images/default-header.jpg") no-repeat scroll center !important;
+	background-size: cover !important;
+}
+
+.breadcrumbs a:link, .breadcrumbs a:visited { 
+		color: rgba(51, 71, 61, 0.5); font-weight: normal !important; 
+}
+
+#dw__search button[type="submit"]{
+	display: none;
+}
+
+.bchead { /* desbest edit */
+	color: #C38596;
+	/*content: "TL;DR -";*/
+	font-family: "Lato","proxima-nova","Helvetica Neue Light","Helvetica Neue","Helvetica","Arial",sans-serif;
+	font-size: 0.65em;
+	font-style: normal;
+	font-weight: 900;
+	/*left: 0;*/
+	/*line-height: 2.5em;*/
+	padding-top:6px;
+	display: inline-block;
+	float: left;
+	margin-right: 0.85em;
+	position: relative;
+}
+
+aside li { display: block; }
+
+#mediamanager__page .file { width: 70%; clear: both; }
+.toolbutton { background-color: #c38596; }
+button { margin: 3px 8px !important; }
+
+.panel { max-height: 400px !important; } /* i should maybe delete/comment this */
+
+.dokuwiki div.license {
+	font-size: 1em;
+}
+
+.pagetoolitem { margin: 0px 0.85em; }
+
+.hentry .entry-meta { margin: 1em 0px; }
+
+/* config manager */
+
+#config__manager fieldset { clear: both; }
+#config__manager table { border-collapse: revert; border-spacing: 0px 1.85em; }
+#config__manager tr { padding: 1em 0px; }
+#config__manager td.label span.outkey { font-size: 1.15em !important; }
+
+/* defined in /lib/plugin/config.style.css */
+#config__manager td input.edit {
+    width: 14em;
+}
+#config__manager td .input {
+    width: 14.8em;
+}
+#config__manager td select.edit { }
+#config__manager td textarea.edit {
+    width: 11.5em;
+    height: 4em;
+}
+
+

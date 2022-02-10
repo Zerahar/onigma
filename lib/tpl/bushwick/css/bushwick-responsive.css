@@ -1,0 +1,256 @@
+/* desbest edit */
+
+@media screen and (max-width: 1000px) {
+	 /* rearrange elements * /
+  /* 
+  https://webdesign.tutsplus.com/tutorials/a-few-different-css-methods-for-column-ordering--cms-27079
+  https://developer.mozilla.org/en-US/docs/Web/CSS/grid-template-columns
+  https://www.digitalocean.com/community/tutorials/css-css-grid-layout-fr-unit
+  */
+  #container { 
+    display: grid !important; 
+    grid-template-rows: none;
+    /*grid-template-columns: repeat(1);*/
+  }
+  #secondary { order: 2; float: none !important; display: block; }
+  .primary { order: 1; float: none !important; }
+  .widget-container { height: unset !important; }
+  .widget-container aside { position: unset !important; left: unset !important; box-sizing: border-box; }
+  /* /////_______//// */
+  /*.colourblock:first-child { margin-left: 0px; }*/
+}
+
+@media screen and (max-width: 480px){
+  fieldset, 
+  #mediamanager__page, 
+  #mediamanager__page .filelist{ 
+    max-width: 100%; min-width: unset; 
+  }
+  #mediamanager__page .file, 
+  #mediamanager__page .namespaces, 
+  #mediamanager__page .panel { 
+    width: 100%; clear: both; float: none;
+  }
+  li, dd { margin: 1.15em 0px !important; }
+  .navigation-main li:first-of-type { margin-right: 72px !important; } 
+  #config__manager tr { }
+  #config__manager td { display: block;  padding: 1.15em 0px; max-width: 95%;  }
+
+  #config__manager fieldset { width: 100%; box-sizing: border-box; }
+
+     /* make <select> not exceed it's parent div's width */
+    /* https://stackoverflow.com/q/44810056/337306 */
+    div.input, label.nowrap { display: flex; } select { width: 100%; flex-shrink: 1; }
+
+  fieldset { width: unset; }
+  #config__manager fieldset td.value { width: unset; }
+
+  #config__manager td .input, 
+  #config__manager fieldset td.value, 
+  #config__manager td input.edit { 
+    max-width: 100%; 
+  }
+
+  .pagetoolitem { padding: 0.15em; display: inline-block; margin: 1em 1.15em; } 
+  .site-main, .single .entry-header { width: 100%; padding: 0.35em; }
+  .panel { max-height: unset; }
+  /* bushwick specific */
+}
+
+
+@media (min-width: 1024px) {
+	.site-header {
+		float: left;
+		position: fixed;
+		width: 40%;
+	}
+
+	.widget-area,
+	.content-area,
+	.site-footer {
+		float: right;
+		max-width: 60%;
+		width: 60%;
+	}
+
+	/* Home Button */
+	.navigation-main li.home-link {
+		left: 4.4%;
+		position: fixed;
+		top: 1.8em;
+	}
+
+	.rtl .navigation-main li.home-link {
+		left: auto;
+		right: 4.4%;
+	}
+
+	.admin-bar .navigation-main li.home-link {
+		top: 3.5em;
+	}
+
+	body:not(.single) .home-link > a {
+		color: #fff;
+		text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+	}
+
+	body:not(.single) .home-link > a:hover {
+		border-bottom-color: #fff;
+	}
+
+	.navigation-main .current-menu-item.home-link > a,
+	.navigation-main .current_page_item.home-link > a,
+	.featured-image .navigation-main .home-link > a,
+	body:not(.single) .home-link > a:hover {
+		color: #f7f2cb;
+	}
+}
+@media (max-width: 1023px) {
+
+	.navigation-main {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing:    border-box;
+		box-sizing:         border-box;
+		left: 0;
+		padding: 1.75em 3.5em;
+		position: absolute;
+		top: 0;
+		width: 100%;
+	}
+
+	.admin-bar .navigation-main {
+		margin-top: 32px;
+	}
+
+	.navigation-main .widget-handle {
+		display: none;
+	}
+
+	.menu-toggle:before,
+	.navigation-main .widget-handle:before {
+		text-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+	}
+
+	.featured-image .navigation-main  div > ul > li > a,
+	body:not(.single) .navigation-main div > ul > li > a,
+	.navigation-main .menu-toggle {
+		color: #fff;
+	}
+
+	.featured-image .navigation-main div > ul > li:hover > a,
+	body:not(.single) .navigation-main div > ul > li:hover > a,
+	.featured-image .menu-toggle:hover:before,
+	body:not(.single) .menu-toggle:hover:before,
+	.featured-image .toggled .menu-toggle:before,
+	body:not(.single) .toggled .menu-toggle:before {
+		color: #f7f2cb;
+		border-bottom-color: #fff;
+	}
+	.navigation-main > div > ul > li.current_page_item > a,
+	.navigation-main > div > ul > li.current-menu-item > a {
+		color: #f7f2cb;
+	}
+
+	.navigation-main.toggled {
+		background: rgba(0,0,0,0.85);
+	}
+
+	.menu-toggle.genericon,
+	.navigation-main.toggled .nav-menu {
+		display: block;
+	}
+
+	.navigation-main ul {
+		display: none;
+	}
+
+
+	#wpstats {
+		display: block;
+		margin: auto;
+		padding-bottom: 1rem;
+	}
+}
+
+@media (max-width: 641px) {
+	.site-header {
+		min-height: 0;
+	}
+	.site-branding,
+	.single .entry-header {
+		position: relative;
+		bottom: auto;
+		top: auto;
+		left: auto;
+		right: auto;
+		margin-top: 2.75em;
+		width: 100%;
+		max-width: 100%;
+	}
+	.navigation-main ul ul {
+		background-color: transparent;
+		border-top: 1px solid #333;
+		float: none;
+		padding-left: 32px;
+		position: static;
+		z-index: 0;
+	}
+	.navigation-main ul ul li:last-child {
+		border-bottom: none;
+	}
+	.navigation-main ul ul a {
+		box-sizing: border-box;
+		padding: 16px 0;
+		width: 100%;
+	}
+	.navigation-main .menu,
+	.navigation-main .nav-menu {
+		clear: both;
+		float: none;
+		width: 100%;
+	}
+	.navigation-main li {
+		border-bottom: 1px solid #333;
+		display: block;
+		margin: 0;
+		padding: 0;
+	}
+	.navigation-main li a,
+	.navigation-main li:hover a {
+		border: none;
+		padding: 16px 0;
+	}
+	.navigation-main ul ul a:hover,
+	.navigation-main ul ul li.focus > a {
+		background-color: transparent;
+	}
+	.navigation-main .menu-item-has-children li.menu-item-has-children > a:after,
+	.navigation-main .menu-item-has-children li.page_item_has_children > a:after,
+	.navigation-main .page_item_has_children li.menu-item-has-children > a:after,
+	.navigation-main .page_item_has_children li.page_item_has_children > a:after {
+		right: 0;
+	}
+	.navigation-main .menu-item-has-children > a:after,
+	.navigation-main .page_item_has_children > a:after {
+		top: 1rem;
+	}
+	.entry-preview .entry-header {
+		max-width: 100%;
+	}
+	.site-title,
+	.entry-title {
+		font-size: 1.5rem;
+	}
+	.entry-permalink {
+		display: none;
+	}
+}
+
+@media (max-width: 480px) {
+	.navigation-main {
+		padding: 1.75em 1em;
+	}
+	.entry-title {
+		font-size: 1.2rem;
+	}
+}
