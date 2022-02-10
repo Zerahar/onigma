@@ -1,0 +1,8 @@
+{{ :wolf.jpg?nolink&600 |}}
+====== Suden heimo ======
+Ankara, järjestäytynyt ja sivistynyt heimo. Se muodostuu [[ihmiset|ihmisistä]], [[kääpiöt|kääpiöistä]] ja [[karstit|karsteista]]. Heimolla on suuri valta laakson kaupankäynnissä, sillä heidän kauttaan kulkee valtaosa louhituista mineraaleista ja taotuista esineistä. 
+
+Suden heimo on taktinen ja laskelmoiva. He pitävät muita heimoja heikkoina, lukuunottamatta [[Lohikäärmeen heimo]]a, jonka kanssa heillä on hyvin kilpailullinen suhde.
+===== Alueet =====
+Suden heimo hallitsee petollista [[Bogrinnummi|Bogrinnummea]] ja kallioista [[Harmaasalo]]a.
+{{tag>organisaatiot Jäisen_aavan_heimot}}

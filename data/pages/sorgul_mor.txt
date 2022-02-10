@@ -1,0 +1,30 @@
+{{ :sorgul.jpg?nolink& 400|}}
+====== Sorgul Mor ======
+Juonitteleva ja vihattu jumala, jolle kaikki ovat kuitenkin kiitollisuudenvelassa.
+<WRAP right round box 30%>
+=== Domains ===
+Soul, fate, pain, death
+=== Alignment ===
+Lawful neutral
+=== Favored weapon ===
+Spiked Chain
+=== Domain spells ===
+  * Spider Sting (1)
+  * Augury (2)
+  * Modify Memory (4)
+</WRAP>
+===== Legendat =====
+Sorgul Mor on [[Kuningas Iotr]]in veli, ja ainoa, joka kykeni syöksemään tyrannin vallasta. Sorgul Morin punomien juonien ansiosta Iotr saatiin vangittua ja jumalat vapautettua hänen ikeestään.
+==== Teesit ====
+=== Hyveet ===
+  * Ohjaile muiden kohtaloa heille sopivaan suuntaan
+  * Pidä tavoitteesi salassa
+  * Jätä muut kiitollisuudenvelkaan
+
+=== Paheet ===
+  * Jätä käyttämättä mahdollisuus oppia muiden salaisuuksia
+  * Vapauta muut ansaitusta kärsimyksestä
+
+===== Symbolismi =====
+Sorgul Mor edustaa julmaa kohtaloa. Hän kannustaa puuttumaan muiden elämään ja juonimaan asiat niin, että jokaista kohtaa ansaittu kohtalo. Se, mikä on ansaittu kohtalo, riippuu keneltä kysytään. 
+{{tag>jumalat Jäisen_aavan_jumalat}}

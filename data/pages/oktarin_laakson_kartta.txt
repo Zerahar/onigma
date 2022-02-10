@@ -1,0 +1,16 @@
+====== Oktarin laakson kartta ======
+
+{{map>kartat:oktarinkartta.jpg}}
+[[Harmaasalo|Harmaasalo @ 300,245,600,520]]
+[[Bogrinnummi|Bogrinnummi @ 320,600,800,815]]
+[[Jahtilakeus|Jahtilakeus @ 1000,860,1700,1150]]
+[[Kiroviita|Kiroviita @ 1570,500,1830,760]]
+[[Punkkisuo|Punkkisuo @ 1100,560,1550,820]]
+[[Lohikäärmeenmaa|Lohikäärmeenmaa @ 600,1150,1430,1320]]
+[[Tulikoto|Tulikoto @ 380,900,660,1130]]
+[[Korppisaaret|Korppisaaret @ 500,0,820,150]]
+[[Vanha Asrangol|Vanha Asrangol @ 660,200,970,316]]
+[[Jättienlehto|Jättienlehto @800,375,1300,530 ]]
+[[Jäälaki|Jäälaki @ 1300,160,1630,470]]
+
+{{tag>kartat}}

@@ -1,0 +1,14 @@
+====== Laakson valloitus ======
+<WRAP right round box 30%>
+  * Tyyppi: Pääjuoni
+  * Sijainti: [[:Oktarin laakso]], [[:Lohikäärmeenmaa]]
+  * Motiivit: sota, vakoojat, tuli, uskonkiihko
+</WRAP>
+
+[[:Wraxiris Tulenluoma]] yrittää valloittaa [[:Oktarin laakso]]n itselleen. Apunaan hänellä on [[:Iliss]], joka kuiskuttelee silloin tällöin vihjeitä hänen uniinsa. 
+
+Suurin este valloitukselle on [[:Dyleskar]], kauan sitten taottu maaginen ase [[:Haldalin vuori|Haldalin vuoren]] huipulla. Se tuhoaa lohikäärmeet, jotka ylittävät rajan laaksoon. Tämän takia Wraxiris on kerännyt liittolaisia, joiden tavoite on soluttautua laaksoon, oppia, kuinka Dyleskar tuhotaan, ja näin päästää Wraxiris valloilleen.
+
+Suurin potentiaali tiedon löytämiseen on Kyyn heimossa, joten Wraxiris on ottanut yhteyttä [[:Ocir Zammith]]iin ja luvannut valtavia rikkauksia ja valtaa, jos mies auttaa heitä tiedonhaussa. Ocir ei tiedä vielä, kuka häneen on ottanut yhteyttä.
+
+{{tag>juonet pääjuonet Oktarin_ratsastajat}}

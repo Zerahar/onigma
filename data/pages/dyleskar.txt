@@ -1,0 +1,7 @@
+{{ :dyleskar.jpg?nolink&400 |}}
+====== Dyleskar ======
+Kauan sitten puolijumalan takoma laakson puolustus, joka sijaitsee [[Haldalin vuori|Haldalin]] huipulla. Se havaitsee kaikki lohikäärmeet, jotka ylittävät rajan laaksoon, ja lähettää jättiläismäisiä keihäitä niitä kohti.
+
+Dyleskar on taottu niin vahvalla magialla, että vain puhdasta maagista voimaa syövä otus voisi sitä heikentää.
+
+{{tag> artifaktit aseet}}

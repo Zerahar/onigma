@@ -1,0 +1,6 @@
+{{ :gnome.jpg?nolink&400 |}}
+====== Maahiset ======
+Maahiset ovat pieniä ja vilkkaita ihmisenkaltaisia olentoja, joilla on kuitenkin vahva yhteys [[Keijumaailma]]an. 
+===== Maahiset Oktarin laaksossa =====
+Pohjoisen maahiset pidättäytyvät usein omissa oloissaan, mutta yksittäisiä perheitä on liittynyt osaksi heimoja, lähinnä [[Karhun heimo]]on ja [[Kyyn heimo]]on. Heitä pidetään erikoisina mutta harmittomina asukkeina, kunhan heidän vieraanvaraisuuttaan ei käytetä hyväksi.
+{{tag>rodut}}

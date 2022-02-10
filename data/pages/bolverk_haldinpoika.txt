@@ -1,0 +1,12 @@
+====== Bolverk Haldinpoika ======
+<WRAP right round box 30%>
+  * **Rotu**: ihminen
+  * **Sukupuoli**: mies
+  * **Ikä**: 22
+  * **Asema**: Arkkikyyn henkivartija
+</WRAP>
+{{:bolverk.jpg?nolink&400|}}
+
+Nuori soturi, joka koittaa näyttää vaarallisemmalta kuin onkaan.
+
+{{tag> henkilöt Kyyn_heimon_henkilöt}}

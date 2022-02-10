@@ -1,0 +1,12 @@
+====== Grimhild Korpinkantama ======
+<WRAP right round box 30%>
+  * **Rotu**: ihminen
+  * **Sukupuoli**: nainen
+  * **Ikä**: 72
+  * **Asema**: Kyyn heimon shamaani
+</WRAP>
+{{:grimhild.jpg?nolink&400|}}
+
+Kajahtaneelta vaikuttava vanha nainen, joka höpisee itsekseen. Hän on kuitenkin arvostettu ja huolehdittu jäsen heimossa. 
+
+{{tag>Kyyn_heimon_henkilöt Henkilöt}}
