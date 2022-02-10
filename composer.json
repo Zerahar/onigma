@@ -1,10 +1,1 @@
-{
-    "require": {
-        "ext-bz2": "*",
-        "ext-gd2": "*",
-        "ext-ldap": "*",
-        "ext-mbstring": "*",
-        "ext-openssl": "*",
-        "ext-pdo_sqlite": "*"
-    }
-}
+{}
