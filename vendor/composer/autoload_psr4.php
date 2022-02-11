@@ -6,7 +6,4 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'splitbrain\\phpcli\\' => array($vendorDir . '/splitbrain/php-cli/src'),
-    'splitbrain\\PHPArchive\\' => array($vendorDir . '/splitbrain/php-archive/src'),
-    'phpseclib\\' => array($vendorDir . '/phpseclib/phpseclib/phpseclib'),
 );
