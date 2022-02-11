@@ -5,6 +5,7 @@
  * Date: Sat, 05 Feb 2022 08:40:17 +0000
  */
 $conf['title'] = 'Onigma';
+$conf['tagline'] = 'Opas kaoottiseen maailmaan'
 $conf['lang'] = 'fi';
 $conf['license'] = '0';
 $conf['useacl'] = 1;
