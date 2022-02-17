@@ -1,7 +1,7 @@
 {{ :iliss.jpg?nolink |}}
 ====== Iliss ======
 <WRAP right round box 30%>
-  * **Rotu**: psykopompos (valkyyria)
+  * **Rotu**: [[Sieluoppaat|Sieluopas]]
   * **Sukupuoli**: nainen
   * **Ikä**: muinainen
 </WRAP>

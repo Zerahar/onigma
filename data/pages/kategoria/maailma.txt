@@ -1,0 +1,11 @@
+====== Flora ======
+{{topic>kasvit&simplelist}}
+
+====== Fauna ======
+{{topic>eläimet&simplelist}}
+
+====== Kulttuuri ======
+{{topic>kalenteri kulttuuri&simplelist}}
+
+====== Muut ======
+{{topic>metafysiikka&simplelist}}

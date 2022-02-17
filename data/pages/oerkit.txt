@@ -1,3 +1,20 @@
+{{ :orc.jpg?400 nolink }}
 ====== Örkit ======
+Örkkejä määrittää eniten kaksi piirrettä: tiukka kunniakäsitys ja lyhyt pinna. Vain harvoilla örkeillä riittää kärsivällisyyttä opetella akateemisia taitoja, kuten magiaa tai kirjoitustaitoa. Sen sijaan taistelussa he ovat vertaansa vailla.
+===== Piirteet =====
+Örkkien ihonväri riippuu asuinsijasta. Se määrittyy örkin ensimmäisen elinvuoden aikana: vauvat syntyvät valkoisina, mutta tummenevat ympäristön vaikutuksesta. Aavikon örkit ovat punasävyisiä, rehevien viidakoiden punertavia tai ruskeita, leudoilla alueilla vaalean vihreitä, harmaita tai ruskeita, kylmillä alueilla valkeita tai harmaita.
+
+Örkeillä molemmat sukupuolet ovat ruumiinrakenteeltaan hyvin lihaksikkaita, mutta eivät ihmistä pidempiä. Sekä naisilla että miehillä on torahampaat, joskin naisilla ne voivat olla hyvin huomaamattomat.
+
+Tatuoinnit, sotamaalit ja arvet ovat örkeille tärkeä tapa koristautua ja osoittaa omaa arvoa. Myös panssarin osana kannetaan usein vihollisilta kerättyjä voitonmerkkejä.
+
+===== Kulttuuri =====
+Örkkien kunniasäännöstö on hyvin vanha ja säilynyt hyvin samanlaisena ympäri Onigmaa. Sääntöjen rikkominen tuo örkille häpeää, ja tarpeeksi paha rikkomus tarkoittaa yhteisöstä häätämistä. Säännöt koskevat ainoastaan örkkejä, vaikka jotkut arvostelevat muitakin rotuja niiden pohjalta.
+  * Haaste kaksintaisteluun on otettava vastaan. Taistelua ei tarvitse käydä kuolemaan saakka, mutta kieltäytyminen tarkoittaa karkoitusta.
+  * Taistelussa ei antauduta.
+  * Taistelutoveria ei hylätä.
+  * Taistelusta ei paeta. Tätä sääntöä voidaan katsoa sormien välistä, jos vihollinen on todella ylivoimainen ja kuolema olisi väistämätön, mutta pakeneminen on aina hieman häpeällistä.
+
+Örkin suku, klaani, merkitsee yleensä paljon yksittäiselle örkille, mutta yhteisön johtajaa ei kuitenkaan valita sukulaissuhteen vaan saavutusten perusteella.
 
 {{tag>rodut}}
