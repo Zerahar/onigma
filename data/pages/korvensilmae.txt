@@ -10,7 +10,7 @@ Kylää ympäröi tiheä ja synkkä metsä, joka hädin tuskin pysyttelee asutuk
   * **Vaskitsa:** käärmeennahoilla koristeltu taverna.
   * **Silmä:** suuri kuoppa, joka on katettu paanukatolla. Toimii juhlasalina, kokoontumispaikkana ja kirkkona.
   * **Arkkikyyn kammio:** vanha haaluraunio, jota koristavat groteskit patsaat ja uhrialttarit. Toimii Arkkikyyn salina.
-  * **Rotankuteet:** rottia rakastavan kutojan kauppa ja työtila.
+  * **Rotankuteet:** rottia rakastavan kutojan, Moran, kauppa ja työtila.
   * **Myrrin puoti:** Kärjästä tuotuja tavaroita.
 
-{{tag>asutus Kiroviita}}
+{{tag>asutus Kiroviita paikat}}

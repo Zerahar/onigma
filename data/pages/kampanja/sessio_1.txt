@@ -1,41 +1,10 @@
 ====== Sessio 1 ======
-===== Suunnitelma =====
-Metsissä on ollut häiriötä. Pelaajat lähetetään tutkimaan asiaa. 
+On syksy. Hahmot tutkivat häiriötä eteläisessä [[:Kiroviita|Kiroviidassa]]. He suututtivat puupaimenen, joka kuitenkin poistui paikalta. Lopulta he löysivät [[:Pronssivaltakunta|Pronssivaltakunnan]] ajalta jääneen "työkaluvajan", jonne koboldit olivat murtautuneet. 
 
-Häiriön aiheuttaja on kobold-partio, joka on tullut "auttamaan" lohikäärmeen kontaktia.
+Hahmot tappoivat yhden koboldin, mutta toinen oli saanut käynnistettyä vanhan ja rikkinäisen [[:Pronssileikkuri]]n. Koneen ohjaajakin nuijittiin loputlta vaarattomaksi. Toinen koboldiryhmä [[:Gurn Valittu|Gurn Valitun]] johtamana saapui paikalle. Tilanteesta selvittiin diplomaattisesti, ja hahmot saattoivat koboldit heimon rajalle.
 
-Metsästä löytyy johtolankoja:
-  * Arboreal Warden on tuhoamassa koboldien jättämää ansaa.
-  * Pienten liskojen jalanjälkiä.
-  * Karu keihäs, jonka kärki on tehty tulikivestä.
-  * Aukiolla on käyty taistelu, verta ja suomuja.
-  * Kobold Scout
+Koboldit jäivät miettimään uutta taktiikkaa, ja hahmot tiedottivat näkemästään [[:Ocir Zammith]]ia. Ryhmä lumoojia lähetettiin tutkimaan pronssileikkuria ja pajaa.
 
-Partio on tekemässä leiriä vanhan Pronssivaltakunnan "työkaluvajan" uumeniin. Rakennuksen perällä on jäätyneenä puunleikkauskone, johon mahtuu pieni otus ohjaamaan.
-
-===== Konetaisto =====
-=== Kärsinyt pronssileikkuri ===
-  * Vehicle 1
-  * //Uncommon Large//
-
-  * **Crew** 1 pilot; **Passengers** 0
-  * **Piloting Check** Driving Lore (DC 15) or Crafting (DC 17)AC 11; Fort +7
-  * **Hardness** 5, **HP** 18 (BT 10); **Immunities** object immunities
-
-  * **Speed** 30 feet (clockwork)
-  * **Collision** 1d10 (DC 15)
-  * **Wind-Up** 5 minutes of wind-up, 30 min of operational time, DC 14, standby
-
-**Actions**
-  * Board [1 action]
-  * Drive 
-      * [1 action] Attempt a piloting check. On a success, the vehicle moves up to its Speed and can turn normally. On a failure, the vehicle moves its Speed in a straight line. On a critical failure, the vehicle moves its Speed in a straight line and becomes uncontrolled.
-      * [2 action] (reckless) The vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading.
-      * [3 action] (reckless) You take a –5 penalty on your piloting check to maintain control of the vehicle. The vehicle moves up to three times its Speed in a straight line at the vehicle’s current heading.
-  * Run Over [3 actions] You try to run over creatures with your vehicle, possibly also ramming one larger creature or object. If you maintain control of your vehicle, the vehicle moves up to twice its Speed in a straight line at the vehicle’s current heading. You attempt to run over any creatures in your path two sizes smaller than the vehicle or smaller, and you can attempt to ram one target creature or object in your path one size smaller than the vehicle or larger.
-
-Each creature in your path, including a rammed target, takes the vehicle’s collision damage (basic Reflex save at vehicle’s collision DC). If the rammed target is a vehicle, its pilot can attempt a piloting check in place of this Reflex save, with the same results. If the target of your ram takes damage, you and your vehicle each take collision damage (no save) and your movement ends.
-  * Stop [1 action]
-  * Take Control [1 action]
+Myöhemmin örkki jätti heimon ja palasi [[:Jahtilakeus|Jahtilakeudelle]] juonimaan kostoaan [[:Lohikäärmeen heimo]]a vastaan.
 
 {{tag>Oktarin_ratsastajat sessiot}}

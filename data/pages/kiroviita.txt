@@ -6,4 +6,8 @@ Ikivanhojen kuusien hämärtämä tiheikkö, jolla tuntuu olevan oma tahto. Mets
 ===== Asukkaat =====
 [[Kyyn heimo]]n lisäksi Kiroviita on koti monille muinaisille olennoille. Useimmat niistä ovat hyviä piiloutumaan, eivätkä edes Arkkikyyt tunne kaikkia naapureitaan. Parasta on olettaa, että metsässä on aina silmäpareja seuraamassa kulkijoita, ja jopa puut kävelevät silloin tällöin.
 
+===== Paikat =====
+{{topic>Kiroviita&simplelist}}
+
+
 {{tag> paikat Oktarin_laakso alueet}}
