@@ -8,7 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'AtomCreator03' => $vendorDir . '/openpsa/universalfeedcreator/lib/Creator/AtomCreator03.php',
     'AtomCreator10' => $vendorDir . '/openpsa/universalfeedcreator/lib/Creator/AtomCreator10.php',
-    'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
     'FeedCreator' => $vendorDir . '/openpsa/universalfeedcreator/lib/Creator/FeedCreator.php',
     'FeedDate' => $vendorDir . '/openpsa/universalfeedcreator/lib/Element/FeedDate.php',
     'FeedHtmlField' => $vendorDir . '/openpsa/universalfeedcreator/lib/Element/FeedHtmlField.php',

@@ -16,6 +16,7 @@ class ComposerStaticInita19a915ee98347a0c787119619d2ff9b
         's' => 
         array (
             'splitbrain\\phpcli\\' => 18,
+            'splitbrain\\PHPArchive\\' => 22,
         ),
         'p' => 
         array (
@@ -27,6 +28,10 @@ class ComposerStaticInita19a915ee98347a0c787119619d2ff9b
         'splitbrain\\phpcli\\' => 
         array (
             0 => __DIR__ . '/..' . '/splitbrain/php-cli/src',
+        ),
+        'splitbrain\\PHPArchive\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/splitbrain/php-archive/src',
         ),
         'phpseclib\\' => 
         array (
@@ -54,7 +59,6 @@ class ComposerStaticInita19a915ee98347a0c787119619d2ff9b
     public static $classMap = array (
         'AtomCreator03' => __DIR__ . '/..' . '/openpsa/universalfeedcreator/lib/Creator/AtomCreator03.php',
         'AtomCreator10' => __DIR__ . '/..' . '/openpsa/universalfeedcreator/lib/Creator/AtomCreator10.php',
-        'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',
         'FeedCreator' => __DIR__ . '/..' . '/openpsa/universalfeedcreator/lib/Creator/FeedCreator.php',
         'FeedDate' => __DIR__ . '/..' . '/openpsa/universalfeedcreator/lib/Element/FeedDate.php',
         'FeedHtmlField' => __DIR__ . '/..' . '/openpsa/universalfeedcreator/lib/Element/FeedHtmlField.php',

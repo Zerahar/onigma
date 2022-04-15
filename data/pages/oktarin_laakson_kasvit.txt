@@ -23,5 +23,9 @@
   * Kasvualueet: rehevät tiheiköt, rannikot
   * Ulkonäkö: pitkät, terävät lehdet suojaavat keskellä olevaa paksua "kieltä", jonka tuoksu houkuttaa hyönteisiä ja pieniä eläimiä. Saaliin laskeuduttua kielelle se kiertyy salamannopeasti rullalle.
   * Käyttötarkoitus: toimii luonnollisena ansana keskikokoisille ja pienemmille olennoille, sillä kiertynyt kasvi vaatii hartiavoimia irtipääsemiseen. 
+===== Ruttosammal =====
+  * Syövyttää ihoa, jos on kosketuksissa tunnin verran. Voidaan neutralisoida kloorinhajuisella jauheella.
+===== Kyyrynlevä =====
+  * Kasvaa kosteassa kivikossa, maan alla. Hohtaa pimeässä.
 
 {{tag>kasvit}}

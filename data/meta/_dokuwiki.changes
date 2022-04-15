@@ -1,28 +1,37 @@
-1645304420	127.0.0.1	E	kampanja:sessio_1	zerahar			-1723
-1645304452	127.0.0.1	E	kampanja:sessio_1	zerahar			7
-1645304616	127.0.0.1	C	gurn_valittu	zerahar	luotu		386
-1645304658	127.0.0.1	E	wraxiris_tulenluoma	zerahar			13
-1645304666	127.0.0.1	E	gurn_valittu	zerahar			13
-1645304728	127.0.0.1	E	gurn_valittu	zerahar			134
-1645304824	127.0.0.1	E	gurn_valittu	zerahar			23
-1645304854	127.0.0.1	E	bolverk_haldinpoika	zerahar			28
-1645353276	127.0.0.1	E	kampanja:sessio_1	zerahar			10
-1645353614	127.0.0.1	C	kampanja:sessio_2	zerahar	luotu		283
-1645353626	127.0.0.1	E	kampanja:sessio_2	zerahar			1
-1645353650	127.0.0.1	E	korvensilmae	zerahar			8
-1645458538	127.0.0.1	C	ardarin_kartano	zerahar	luotu		180
-1645696436	127.0.0.1	E	ardarin_kartano	zerahar			16
-1645696452	127.0.0.1	E	kampanja:sessio_2	zerahar			16
-1648400002	127.0.0.1	E	kampanja:sessio_2	zerahar			641
-1648400420	127.0.0.1	C	kampanja:sessio_3	zerahar	luotu		711
-1648400832	127.0.0.1	E	korvensilmae	zerahar			7
-1648400846	127.0.0.1	E	korvensilmae	zerahar			0
-1648400892	127.0.0.1	C	kyyroen_kylae	zerahar	luotu		983
-1648551058	127.0.0.1	C	maailman_synty	zerahar	luotu		1003
-1648551342	127.0.0.1	E	maailman_synty	zerahar			575
-1648551410	127.0.0.1	E	kiroviita	zerahar			52
-1648551640	127.0.0.1	E	kyyroen_kylae	zerahar			29
-1648551654	127.0.0.1	E	kyyroen_kylae	zerahar			-13
-1648551674	127.0.0.1	E	kyyroen_kylae	zerahar			11
-1648551682	127.0.0.1	E	kyyroen_kylae	zerahar			0
-1648551688	127.0.0.1	E	kyyroen_kylae	zerahar			1
+1649866740	127.0.0.1	C	kampanja:seikkailu_1	zerahar	luotu		1005
+1649866760	127.0.0.1	D	kampanja:sessio_1	zerahar	poistettu		-982
+1649866794	127.0.0.1	E	kampanja:sessio_2	zerahar			22
+1649866804	127.0.0.1	C	kampanja:seikkailu_2	zerahar	↷ Page name changed from kampanja:sessio_2 to kampanja:seikkailu_2		963
+1649866804	127.0.0.1	D	kampanja:sessio_2	zerahar	↷ Page name changed from kampanja:sessio_2 to kampanja:seikkailu_2		-963
+1649866864	127.0.0.1	C	kampanja:seikkailu_3	zerahar	↷ Page name changed from kampanja:sessio_3 to kampanja:seikkailu_3		711
+1649866864	127.0.0.1	D	kampanja:sessio_3	zerahar	↷ Page name changed from kampanja:sessio_3 to kampanja:seikkailu_3		-711
+1649866892	127.0.0.1	E	kampanja:seikkailu_3	zerahar			23
+1649867606	127.0.0.1	E	kampanja:seikkailu_3	zerahar			1701
+1649867638	127.0.0.1	E	kampanja:seikkailu_3	zerahar			24
+1649867768	127.0.0.1	E	oktarin_laakson_kasvit	zerahar			220
+1649867814	127.0.0.1	E	kampanja:seikkailu_3	zerahar			-1
+1649867860	127.0.0.1	E	maailmantasot	zerahar			-1
+1649867882	127.0.0.1	E	kampanja:seikkailu_3	zerahar			12
+1649867900	127.0.0.1	E	kampanja:seikkailu_3	zerahar			10
+1649867948	127.0.0.1	E	maailmantasot	zerahar			46
+1649868158	127.0.0.1	C	dymayrrynth	zerahar	luotu		299
+1649868306	127.0.0.1	C	sammakonlallo	zerahar	luotu		393
+1649868404	127.0.0.1	C	remia	zerahar	luotu		585
+1649868414	127.0.0.1	E	remia	zerahar			1
+1649868468	127.0.0.1	C	reku_huuhkahiippa	zerahar	luotu		112
+1649868536	127.0.0.1	E	sidebar	zerahar			38
+1650050048	127.0.0.1	E	maahiset	zerahar			1441
+1650050824	127.0.0.1	E	puolituiset	zerahar			1277
+1650051180	127.0.0.1	E	maahiset	zerahar			634
+1650051374	127.0.0.1	E	puolituiset	zerahar			425
+1650051606	127.0.0.1	E	puolituiset	zerahar			30
+1650051612	127.0.0.1	E	puolituiset	zerahar			0
+1650051718	127.0.0.1	E	maahiset	zerahar			1
+1650051734	127.0.0.1	E	maahiset	zerahar			-2
+1650052118	127.0.0.1	E	varjolaiset	zerahar			620
+1650052254	127.0.0.1	C	kaerjaen_kaupunki	zerahar	luotu		233
+1650052322	127.0.0.1	E	kategoria:paikat	zerahar			50
+1650052364	127.0.0.1	E	kategoria:paikat	zerahar			0
+1650052382	127.0.0.1	E	korvensilmae	zerahar			15
+1650052400	127.0.0.1	D	ardarin_kartano	zerahar	poistettu		-196
+1650052412	127.0.0.1	E	kyyroen_kylae	zerahar			15

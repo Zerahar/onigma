@@ -1,3 +1,6 @@
 ====== Paikat ======
 [[:oktarin_laakso|Oktarin laakso]]
 {{topic>Oktarin_laakso +paikat&simplelist}}
+
+Muut
+{{topic>paikat -Oktarin_laakso&simplelist}}
