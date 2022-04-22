@@ -1,0 +1,11 @@
+====== Iotrin paluu ======
+<WRAP right round box 30%>
+  * Tyyppi: Pääjuoni
+  * Sijainti: [[:Oktarin laakso]], [[:Lohikäärmeenmaa]], [[:Manala]]
+  * Motiivit: tyrannia, palvonnan vaatiminen, kuolemattomuus
+</WRAP>
+[[:Kuningas Iotr]], tyrannian jumala, voitettiin kauan sitten ja vangittiin Manalaan. Vuosituhansien kuluessa hän on kuitenkin kerännyt valtaa ja liittolaisia, ja saanut vakuutettua vanginvartijansa [[:Iliss]]in siitä, että mureneva Onigma tarvitsee vahvan jumalan johtamaan sitä. Iliss on alkanut juonittelemaan vankinsa uutta valtaannousua, ja Oktarin laakso on siinä keskeisessä asemassa, sillä Iotr aikoinaan kukistettiin siellä.
+
+Iliss on manipuloinut nuoren lohikäärmeen [[:wraxiris_tulenluoma|Wraxiris Tulenluoma]]n valloittamaan laakson. Kun laaksoa hallitaan pelolla ja tyrannialla, on helpompi suostutella sen asukkaat palvomaan Iotria, jotta epäkuollut jumala vahvistuu.
+
+{{tag>juonet pääjuonet Oktarin_ratsastajat}}

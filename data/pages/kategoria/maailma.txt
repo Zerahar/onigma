@@ -1,0 +1,16 @@
+====== Maailma ======
+
+===== Flora =====
+{{topic>kasvit&simplelist}}
+
+===== Fauna =====
+{{topic>eläimet&simplelist}}
+
+===== Kulttuuri =====
+{{topic>kalenteri kulttuuri&simplelist}}
+
+===== Historia =====
+{{topic>historia&simplelist}}
+
+===== Muut =====
+{{topic>metafysiikka&simplelist}}

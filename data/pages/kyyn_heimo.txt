@@ -1,0 +1,33 @@
+{{ :kyysymbol.jpg?nolink&400 |}}
+====== Kyyn heimo ======
+Synkkiä metsiä kotinaan pitävä salaperäinen heimo, jota muut pelkäävät tai inhoavat. Heidän mahtinsa tulee taikuudesta ja viekkaudesta. Heimoon kuuluu [[varjolaiset|varjolaisia]], [[haalut|haaluja]] sekä muutamia [[haltiat|haltioita]] ja [[maahiset|maahisia]].
+
+===== Alueet =====
+Kyyn heimon reviiri muodostuu [[Kiroviita|Kiroviidan]] pahansuovasta metsästä ja [[Punkkisuo]]sta, johon on uponnut monen monta salaisuutta.
+
+===== Säännöt =====
+  *     Heimon salaisuuksia ei saa paljastaa ulkopuolisille.
+  *     Heimon reviirillä ulkopuolisten täytyy pysyä tiellä, poikkeaminen on kiellettyä.
+  *     Erimielisyydet tulee selvittää väittelyllä, ei fyysisellä väkivallalla.
+  *     Heimon tulee elää yhteisymmärryksessä metsän kanssa: ei sen orjina, ei sen hallitsijoina.
+
+===== Roolit =====
+  * Arkkikyy ([[Ocir Zammith]]): heimon johtaja, joka valitaan Suurella väitöksellä. 
+  * Shamaani ([[Grimhild Korpinkantama]]): uskonnollinen johtaja, joka pitää huolen, että heimon ei toimi jumalten tahtoa vastaan.
+  * Ratsastajat: heimon suojelijoita, jotka vartioivat sen rajoja ja edustavat heimoa sen alueiden ulkopuolella.
+
+===== Elämäntapa =====
+Kyyn heimossa ruokaa hankitaan monesta lähteestä: rannikolla kalastetaan, metsästä keräillään syötäviä kasveja, sieniä ja riistaa ja kylien yhteydessä harjoitetaan pienimuotoisesti maanviljelystä. Heimo saa paljon tuloja ollessaan ainoa heimo, joka osaa lumota esineitä, ja niin ollen myös ostaa osan ruuastaan.
+
+Koska heimon kulttuuri kieltää sisäisten konfliktien ratkaisemisen väkivallalla, sen jäsenet ovat taitavia käyttämään sanoja aseenaan. Vaikka baaritappelut ja heikkojen löylyttämiset loistavat poissaolollaan, henkinen väkivalta on yleistä, eikä edes kovin paheksuttua. Äärimmäisissä tapauksissa, kuten jos heimon sääntöjä on rikottu, rankaisuna saattaa olla kuolema, mutta yleisempää on pakkotyö tai karkoitus. Rikkomuksista epäillylle sallitaan lähes poikkeuksetta Karkoitusväitös, joka on yleisölle avoin väittely, jossa syytetty saa puolustaa itseään joko uhria tai Arkkikyytä vastaan.
+
+Heimon jäsenen asema määräytyy suureksi osaksi sosiaalisten taitojen perusteella. Lipevillä tai nokkelilla sanataitureilla on paljon ystäviä ja raskaita todisteita vihollisiaan vastaan, kun taas tuppisuut ja sosiaalisesti kömpelöt tyytyvät yleensä työskentelemään siinä osassa, joka heille on suotu. Kaikkein vähiten arvostetaan ruuanhankkijoita, sitten tavanomaisia käsityöläisiä. Akateemiset osaajat, kuten parantajat, lumoojat ja ajattelijat, ovat kaikki yhtä arvostettuja.
+
+===== Suhde muihin heimoihin =====
+Kyyn heimossa tiedetään, että muut heimot eivät tiedä maailmasta ja magiasta puoliakaan niin paljon kuin he. Sana ei kuitenkaan aina voita miekkaa, minkä vuoksi heimossa suunnitellaan tarkkaan, miten muita heimoja kohdellaan. [[Lohikäärmeen heimo]]a on helppo pelotella magialla, kun taas [[Karhun heimo]]lla on hyvin pitkä pinna. 
+
+Kyyn heimo ei hyväksy jäsenekseen ketä tahansa, mutta terävä-älyiset tai tietäväiset hylkiöt voivat ansaita paikkansa Kiroviidan siimeksessä. 
+
+{{ :kyy.jpg?nolink |}}
+
+{{tag>Jäisen_aavan_heimot organisaatiot}}

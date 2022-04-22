@@ -1,0 +1,4 @@
+
+{{ :asrangol.jpg?nolink&600 |}}
+====== Vanha Asrangol ======
+{{tag>alueet paikat Oktarin_laakso}}

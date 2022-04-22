@@ -1,0 +1,16 @@
+====== Korvensilmä ======
+Korvensilmä on Kyyn heimon keskus Kiroviidan siimeksessä.
+===== Kartta =====
+{{ :kartat:korvensilma.jpg?nolink&600 |}}
+===== Ympäristö =====
+Kylää ympäröi tiheä ja synkkä metsä, joka hädin tuskin pysyttelee asutuksen ja pienten peltojen ulkopuolella. Heti kylän ulkopuolella virtaa kirkasvetinen Kyyrypuro.
+===== Paikat =====
+  * **Romupirtit**: lahoavia mökkejä, joita käytetään vieraiden majoittamiseen.
+  * **Lumoojien kota**: korkea puinen rakennus, jossa tutkitaan ja valmistetaan maagisia esineitä. 
+  * **Vaskitsa:** käärmeennahoilla koristeltu taverna.
+  * **Silmä:** suuri kuoppa, joka on katettu paanukatolla. Toimii juhlasalina, kokoontumispaikkana ja kirkkona.
+  * **Arkkikyyn kammio:** vanha haaluraunio, jota koristavat groteskit patsaat ja uhrialttarit. Toimii Arkkikyyn salina.
+  * **Rotankuteet:** rottia rakastavan kutojan, Moran, kauppa ja työtila.
+  * **Myrrin puoti:** Kärjästä tuotuja tavaroita.
+
+{{tag>asutus Kiroviita paikat Oktarin_laakso}}

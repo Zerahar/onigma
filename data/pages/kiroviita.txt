@@ -1,0 +1,13 @@
+{{ :kiroviita.jpg?nolink}}
+
+====== Kiroviita ======
+Ikivanhojen kuusien hämärtämä tiheikkö, jolla tuntuu olevan oma tahto. Metsä muuttuu jatkuvasti, ja ainoastaan vahvoilla taioilla turvatut tiet pysyvät samoina päivästä toiseen. Ystävällismielinen kulkija kokee harvoin metsän muuttuvaisuutta ongelmana, mutta vihollisille ja epäkunnioittaville matkaajille metsän poikki tarpominen voi olla kauhistuttava kokemus.
+
+===== Asukkaat =====
+[[Kyyn heimo]]n lisäksi Kiroviita on koti monille muinaisille olennoille. Useimmat niistä ovat hyviä piiloutumaan, eivätkä edes Arkkikyyt tunne kaikkia naapureitaan. Parasta on olettaa, että metsässä on aina silmäpareja seuraamassa kulkijoita, ja jopa puut kävelevät silloin tällöin.
+
+===== Paikat =====
+{{topic>Kiroviita&simplelist}}
+
+
+{{tag> paikat Oktarin_laakso alueet}}

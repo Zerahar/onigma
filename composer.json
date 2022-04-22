@@ -1,0 +1,18 @@
+{
+    "require": {
+        "php": "^7.4.0",
+        "ext-bz2": "*",
+        "ext-ldap": "*",
+        "ext-mbstring": "*",
+        "ext-openssl": "*",
+        "ext-pdo_sqlite": "*",
+        "simplepie/simplepie": "1.5.5",
+        "phpseclib/phpseclib": "2.0.27",
+        "paragonie/random_compat": "v2.0.18",
+        "openpsa/universalfeedcreator": "1.8.3.2",
+        "marcusschwarz/lesserphp": "v0.5.4",
+        "geshi/geshi": "dev-master",
+        "aziraphale/email-address-validator": "2.0.1",
+        "splitbrain/php-cli": "1.1.7"
+    }
+}

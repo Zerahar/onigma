@@ -1,0 +1,10 @@
+{{ :kampanja:wraxiris.jpg?nolink&400 |}}
+====== Wraxiris Tulenluoma ======
+<WRAP right round box 30%>
+  * **Rotu**: nuori punainen lohikäärme
+  * **Sukupuoli**: nainen
+  * **Ikä**: 68
+</WRAP>
+Nuori ja itsevarma lohikäärme, joka haluaa rellestää niin kauan, kun hänen isänsä [[Urthuxemur]] pysyy unten mailla [[Hornansylin_tulivuori|Hornansylin tulivuoren]] uumenissa.
+
+{{tag>henkilöt antagonistit}}

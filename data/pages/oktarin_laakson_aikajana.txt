@@ -1,0 +1,109 @@
+====== Oktarin laakson aikajana ======
+<csstimeline>
+<entry>
+date: 66. aika
+title: Anrok Khexin tuho ★
+description: Varjolaiset syntyvät [[Anrok Khex]]in jäädessä varjoenergian alle.
+</entry>
+<entry>
+date: 67. aika
+title: Sydänahjo rakennetaan
+description: [[Pronssivaltakunta]] rakentaa suuren koneen, jonka tarkoitus oli lämmittää Oktarin laaksoa paremman sadon toivossa.
+</entry>
+<entry>
+date: 70. aika
+title: Pronssivaltakunta kukistui ★
+description: Syystä ei olla varmoja, mutta kaikki [[Pronssivaltakunta|Pronssivaltakunnan]] edistyneimmät koneistot lakkasivat toimimasta samaan aikaan. 
+</entry>
+<entry>
+date: 71. aika
+title: Vampyyrisodat ★
+description: [[Razomin imperiumi]] aloitti muiden kansojen väkivaltaisen alistamisen.
+</entry>
+<entry>
+date: 71. aika
+title: Helgisin verikauppa
+description: [[Oravan heimo]]n päällikkö petti kansansa ja myi heidät veriorjiksi vampyyreille.
+</entry>
+<entry>
+date: 72. aika
+title: Ikipäivän aika ★
+description: 50 kuunkiertoa kului ilman, että yö laskeutui kertaakaan. Tämä tarkoitti [[Razomin imperiumi]]n tuhoa.
+</entry>
+<entry>
+date: 73. aika
+title: Maanjäristyksiä ja halkeamia ★
+description: Monien kuukausien ajan maanjäristykset heikensivät maanpintaa, tuhoten monia asutuksia ja yhteiskuntia.
+</entry>
+<entry>
+date: 73. aika
+title: Kääpiömaiden miasmakriisi
+description: Manageysirit ajavat kääpiöitä hulluksi.
+</entry>
+<entry>
+date: 73. aika
+title: Suden heimo muodostuu
+description: Epätoivoisessa tilanteessa kääpiöt suostuvat liittoutumaan karstien ja ihmisten kanssa, muodostaen [[Suden heimo]]n.
+</entry>
+<entry>
+date: 74. aika
+title: Demonien invaasio ★
+description: Sotajoukko Hornasta tunkeutui kylvämään kaaosta ja tuskaa maan päälle.
+</entry>
+<entry>
+date: 75. aika
+title: Kultatulva ★
+description: Viidentoista kuunkierron ajan kultaa löytyi yhtäkkiä kaikista kaivoksista. Ajan myötä kaivettu kulta alkoi haihtua ilmaan, mutta se oli ehtinyt sekoittaa ekonomian täysin.
+</entry>
+<entry>
+date: 75. aika
+title: Kärjän uusi järjestys
+description: Heimot ottivat tiukemman otteen kaaoksen valtaan joutuneesta Kärjästä, ja sopivat sen hallinnosta kaikkien heimojen kesken.
+</entry>
+<entry>
+date: 76. aika
+title: Myrskyn aikakausi ★
+description: Kymmenien kuunkiertojen ajan valtavat myrskytuulet tekevät tuhoa ympäri maailman.
+</entry>
+<entry>
+date: 76. aika
+title: Lykantropia leviää
+description: [[Karhun heimo]]sta lähtenyt tartuntaketju levittää lykantropiaa muihin heimoihin, aiheuttaen suurta närää.
+</entry>
+<entry>
+date: 77. aika
+title: Tähtiaallokko ★
+description: Meteoriitti osuu mereen ja aiheuttaa suuria tulvia ja hyökyaaltoja.
+</entry>
+<entry>
+date: 77. aika
+title: Nagojen hyökkäys
+description: Kaaos meren syvyyksissä ajaa nagat yrittämään Eetterimeren rannikon valloitusta. Paikallisia azerketejä syytetään vakoojiksi ja heidät häädetään kaikista heimoista [[Näädän heimo]]a lukuunottamatta.
+</entry>
+<entry>
+date: 78. aika
+title: Mirmis katoaa
+description: Maahiskylä katoaa jälkiä jättämättä [[Maailmantasot#Siimes|Siimekseen]]
+</entry>
+<entry>
+date: 80. aika
+title: Hornansyli purkautuu ★
+description: Tulivuorenpurkaus aiheuttaa maanjäristyksiä ja laavaa valuu hieman [[Lohikäärmeen heimo]]n alueelle. Tuhkapilvi pilaa seuraavan sadon.
+</entry>
+<entry>
+date: 80. aika
+title: Toraleirin tuho
+description: Lohikäärmeen heimon tukikohta, [[Toraleiri]], tuhoutuu valtavan vajoaman nielaistessa sen.
+</entry>
+<entry>
+date: 81. aika
+title: Kivettymisrutto ★
+description: Ihon kivettävä tauti levisi ympäri maailman ja ehti tehdä paljon tuhoa, ennen kuin höyryhuoneiden parantava voima keksittiin.
+</entry>
+<entry>
+date: 81. aika
+title: Nykyaika
+description: 
+</entry>
+</csstimeline>
+{{tag>historia}}

@@ -1,0 +1,17 @@
+{{ :iotr2.jpg?nolink&400 |}}
+====== Kuningas Iotr ======
+Entinen hirmuhallitsija, jonka uskotaan olevan vangittuna [[Manala]]ssa.
+<WRAP right round box 30%>
+=== Domains ===
+Tyranny, undeath
+=== Alignment ===
+Lawful evil
+</WRAP>
+===== Legendat =====
+Kuningas Iotr hallitsi aiemmin kaikkia Jäisen aavan jumalia ja kansoja, jotka elivät pimeydessä ja tuskassa. Hänen veljensä [[Sorgul Mor]]in juoni koitui kuitenkin Iotrin kohtaloksi, ja hänet saatiin syöstyä vallasta.
+===== Symbolismi =====
+Iotr symboloi absoluuttista valtaa, julmuutta ja synnynnäistä pahuutta.
+===== Palvonta =====
+Iotrin palvonta on tabu Jäisellä aavalla, ja häntä kunnioittavatkin lähinnä kuolleidenmanaajat ja muut pahansuovat olennot.
+
+{{tag>jumalat Jäisen_aavan_jumalat}}

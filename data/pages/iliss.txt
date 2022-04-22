@@ -1,0 +1,10 @@
+{{ :iliss.jpg?nolink |}}
+====== Iliss ======
+<WRAP right round box 30%>
+  * **Rotu**: [[Sieluoppaat|Sieluopas]]
+  * **Sukupuoli**: nainen
+  * **Ikä**: muinainen
+</WRAP>
+[[Kuningas Iotr]]in vanginvartija. Uskoo, että vangin vapauttaminen hallitsemaan maailmaa on ainoa tapa vakauttaa Onigma. 
+
+{{tag>henkilöt}}

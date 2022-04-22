@@ -1,0 +1,5 @@
+====== Rodut ======
+{{topic>rodut&simplelist}}
+
+  * [[:Rotujen historia]]
+  * [[:Rotujen vertailu]]

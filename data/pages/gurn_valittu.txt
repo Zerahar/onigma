@@ -1,0 +1,13 @@
+====== Gurn Valittu ======
+<WRAP right round box 30%>
+  * **Rotu**: kobold dragon mage
+  * **Sukupuoli**: mies
+  * **Ikä**: 12
+</WRAP>
+[[Wraxiris Tulenluoma]]n antamasta tehtävästä hurmioitunut koboldijohtaja, joka uskoo olevansa kaikkia muita tärkeämpi ja ovelampi.
+
+Hänen tehtävänään on saada kontakti [[Ocir Zammith]]iin ja toimia hänen kätyreinään.
+
+Pitää päässään liskon kallosta tehtyä kypärää, kädessään obsidiaanisauvaa (Staff of Fire, lvl 3) ja vaatteena mustaa, joskin resuista, kaapua.
+
+{{tag>henkilöt antagonistit}}

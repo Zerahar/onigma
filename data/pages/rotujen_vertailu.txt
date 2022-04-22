@@ -1,0 +1,15 @@
+====== Rotujen vertailu ======
+
+^ Rotu      ^ Aikuistuminen      ^ Maksimi-ikä          ^ Pituus  ^
+| Azerketit    | 18    | 100 | 140 - 171 cm |
+| Haalut    | 18 | 150 | 160-190 cm |
+| Haarnit    | 15  | 70 | 190 - 250 cm |
+| Haltiat   | 25    | 500 | 140 - 171 cm |
+| Hiidet    | 12 | 70 | 50 - 80 cm |
+| Ihmiset    | 18  | 100 | 152-183 cm |
+| Karstit    | 18    | 100 | 173 - 200 cm |
+| Kääpiöt  | 18 | 200 | 122 - 140 cm |
+| Maahiset  | 20  | 200 | 50-80 cm |
+| Puolituiset  | 15    | 100 | 91 - 110 cm |
+| Varjolaiset | 25 | 150 | 152-183 cm |
+| Örkit  | 15  | 90 | 183 - 213 cm |
