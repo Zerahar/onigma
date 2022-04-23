@@ -94,6 +94,7 @@
         padding-right: 0;
     }
     .main-content {
+        
         overflow-y: scroll;
     }
     html, body, .site {
