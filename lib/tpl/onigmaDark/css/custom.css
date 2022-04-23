@@ -230,7 +230,7 @@ margin:0!important;
     background-image: url('/dokuwiki/lib/exe/fetch.php?media=img-shadow.png');
     padding: 15px 18px;
 box-sizing: border-box;
-    float:right;
+float:right;
     margin:1em 0 1em 2em;
 }
 .image-container img {
@@ -238,6 +238,9 @@ box-sizing: border-box;
 }
 .imageshow {
     background-image: none;
+}
+.mediaright, .medialeft {
+    float:none;
 }
 .dw__toc {
     padding: 1.5em;
@@ -400,4 +403,11 @@ flex-wrap: wrap;
     .gallery div {
         margin: 1em 2em;
 
+    }
+
+@media screen and (max-width: 1200px) {
+    .image-shadow {
+        float:none;
+        margin: 2em auto;
+    }
     }

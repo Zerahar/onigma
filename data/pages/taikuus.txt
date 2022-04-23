@@ -1,10 +1,11 @@
 ====== Taikuus ======
 Kautta aikojen Onigmassa on harjoitettu taikuutta. Sille on monta lähdettä, joista jotkut ovat luotettavampia kuin toiset. 
 ===== Velhotaikuus =====
-{{ ::magic.jpg?nolink&400|}}
-Velhotaikuus kulkee joskus myös nimellä arkaaninen taikuus. Se on pitkällistä harjoittelua vaativa menetelmä, joka pystyy kaikista suurimpiin ihmetekoihin. Valitettavasti Onigman kaoottinen luonne tekee sen opettelusta vaikeaa, sillä velhotaikuus vaatii hyvin suurta tarkkuutta yksityiskohdissa. Jokainen tuho ravistelee maailman liitoksia ja pakottaa velhot hiomaan menetelmiään uudelleen, ja jopa päivittäiset pienet muutokset tekevät siitä vaarallisen työkalun kokemattomalle käyttäjälle.
+Velhotaikuus kulkee joskus myös nimellä arkaaninen taikuus. Se on pitkällistä harjoittelua vaativa menetelmä, joka pystyy kaikista suurimpiin ihmetekoihin. Valitettavasti Onigman kaoottinen luonne tekee sen opettelusta vaikeaa, sillä velhotaikuus vaatii hyvin suurta tarkkuutta yksityiskohdissa. 
+{{ ::magic4.jpg?nolink&400|}} Jokainen tuho ravistelee maailman liitoksia ja pakottaa velhot hiomaan menetelmiään uudelleen, ja jopa päivittäiset pienet muutokset tekevät siitä vaarallisen työkalun kokemattomalle käyttäjälle. Onnistuessaan velhotaikuus on tehokasta ja ongelmatonta. Oppineet velhot kuvaavat loitsimista tanssimiseksi maailman kanssa: pienillä eleillä ja sanoilla he taivuttavat maailman virtaa tahtonsa mukaan.
 
-Onnistuessaan velhotaikuus on tehokasta ja ongelmatonta. Oppineet velhot kuvaavat loitsimista tanssimiseksi maailman kanssa: pienillä eleillä ja sanoilla he taivuttavat maailman virtaa tahtonsa mukaan.
+Velhotaikuuden oppiminen vaatii lähes aina kokeneen mestarin, joka haluaa siirtää tietonsa nuoremmalle joko rahan, vallan tai sukulaissuhteen vuoksi. Velhon oppilaana oleminen ei ole herkkua, sillä kokeneet velhot ovat taipuvaisia itserakkauteen ja jumalkompleksiin. Oppilas joutuu usein toimia aluksi velhon juoksupoikana ja palvelijana, ennen kuin on todistanut olevansa oppien arvoinen.
+
 ===== Manaus =====
 {{:magic2.jpg?nolink&400 |}}
 Oikoreitti taikuuteen on viedä voima vahvoilta olennoilta tosimaailmasta ja sen ulkopuolella. Manaajat tekevät yleensä sopimuksen pirun, syöjättären tai hengen kanssa, ja vastineeksi yliluonnollisista voimista toteuttavat isäntänsä tahtoa. Manaajia halveksutaan, sillä heidän ahneutensa johtaa yleensä ikävään loppuun niin heille kuin heidän ympäristöllekin. Siksi he yleensä piilottavat voimiensa todellisen lähteen ja esiintyvät edistyneinä velhoina.
@@ -17,11 +18,15 @@ Manaajia jaotellaan heidän käyttämänsä voiman perusteella.
 On myös muita lähteitä manaajien voimille, mutta ne eivät ole yleisessä tiedossa.
 
 ===== Luontotaikuus =====
+{{ ::magic.jpg?nolink&400|}}
 Luontotaikuus, toiselta nimeltään druidismi, sivuaa sekä uskontoa että taikuutta. Druidit ja muut sen harjoittajat keräävät voimansa ympäröivästä luonnosta, itsestään tai Siimeksestä, mutta noudattavat tarkkoja moraalisääntöjä pysyäkseen hyvissä väleissä lähteensä kanssa. Luontotaikuus voidaan nähdä jopa vuoropuheluna maailman kanssa: taikoja maanittelee luonnolta voimaa, jotta pystyy suojelemaan sitä ulkoisilta vaaroilta. 
 
-Luontotaikuus on joillekin roduille, kuten [[Maahiset|maahisille]] ja joillekin [[haltiat|haltioille]], hyvin luonnollista ja helppoa. Sen käyttöön pikemminkin kasvetaan kuin opetellaan niissä kulttuureissa, joissa sitä esiintyy. Myös monet parantajat ja tietäjät harjoittavat sitä.
+Luontotaikuus on joillekin roduille, kuten [[Maahiset|maahisille]] ja joillekin [[haltiat|haltioille]], hyvin luonnollista ja helppoa. Sen käyttöön pikemminkin kasvetaan kuin opetellaan niissä kulttuureissa, joissa sitä esiintyy. Myös monet parantajat ja tietäjät harjoittavat sitä. Sen syvempiä salaisuuksia ja oppeja jaetaan druidipiireissä ja kulteissa, jotka ovat yleensä hyvin omistushaluisia jäsenistään. Oppien jakaminen piirin ulkopuolelle nähdään suurena rikoksena, ja petturit saatetaan jopa yrittää murhata lakien rikkomisen takia.
 
-===== Uskonvoima =====
-Papit ja paladiinit sijoittuvat luontotaikuuden ja manauksen välimaastoon taikuuden käytössään. Oppineet kiistelevät siitä, saavatko he voimansa uskosta vai suoraan jumalilta, mutta yhtä kaikki he toteuttavat uskonsa oppeja maailmassa yliluonnollisinkin keinoin. Suhtautuminen heihin on paljon parempaa kuin manaajiin, sillä uskonvoima on tasaista ja helposti hallittavaa, vaikkakin heikompaa kuin muut taikuuden lajit.
+===== Uskontaikuus =====
+{{ ::magic3.jpg?nolink&400|}}
+Papit ja paladiinit sijoittuvat luontotaikuuden ja manauksen välimaastoon taikuuden käytössään. Oppineet kiistelevät siitä, saavatko he voimansa uskosta vai suoraan jumalilta, mutta yhtä kaikki he toteuttavat uskonsa oppeja maailmassa yliluonnollisinkin keinoin. Suhtautuminen heihin on paljon parempaa kuin manaajiin, sillä uskontaikuus on tasaista ja helposti hallittavaa, vaikkakin heikompaa kuin muut taikuuden lajit.
+
+Uskontaikuutta opettavat järjestöt ovat usein hyvin hierarkisia, mutta eivät kovin sulkeutuneita. Uskontaikuus on hyvin yksilöllistä, ja sen opetus tähtää lähinnä henkilön itsensä kasvattamiseen, eikä niinkään taikomistekniikan hiomiseen. Järjestöillä on tyypillisesti erilaisia testejä, joilla varmistetaan oppilaan mielenlujuus ja nöyryys, ennen kuin hän pääsee etenemään oppiurallansa.
 
 {{tag>metafysiikka}}
