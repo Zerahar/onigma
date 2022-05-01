@@ -1,0 +1,33 @@
+====== Kielet ======
+Onigmassa on aikojen saatossa nähty monia kieliä, joista suurin osa on vaipunut unholaan.
+
+===== Yleiset kielet =====
+
+^ Nimi ^ Käännös ^ Puhujat ^
+| Common | yleiskieli | sivistyneet rodut |
+| Draconic | kärmes | lohikäärmeet, koboldit, liskonsukuiset | 
+| Dwarven | iduni | kääpiöt | 
+| Elven | seleesi | haltiat, runoilijat | 
+| Gnomish | maahiska | maahiset | 
+| Goblin | raska | hiidet | 
+| Jotun | jatulinkieli | jättiläiset, peikot, pohjoisen uskonnolliset tekstit | 
+| Orcish | erros | haarnit, örkit | 
+| Sylvan | sylvaani | keijut, kasvit | 
+
+===== Harvinaiset kielet =====
+
+^ Nimi ^ Käännös ^ Puhujat ^
+| Abyssal | syöverinkieli | demonit, gnollit |
+| Aklo | kalaari | pahat keijut, hirviöt | 
+| Aquan | solina | vesiolennot | 
+| Auran | puhuri | ilmaelementaalit, lentävät rodut | 
+| Celestial | aamunlaulu | enkelit, uskonnolliset tekstit | 
+| Druidic | salonkieli | druidit | 
+| Ignan | igna | tulielementaalit | 
+| Infernal | hornankieli | paholaiset | 
+| Necril | kuolonkieli | älykkäät epäkuolleet | 
+| Shadowtongue| varjokieli | varjomaailman olennot, varjolaiset | 
+| Terran | jyly | maaelementaalit |
+| Undercommon | aliskieli | maanalaiset olennot | 
+
+{{tag>kulttuuri}}

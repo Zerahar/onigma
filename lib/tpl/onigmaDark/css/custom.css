@@ -56,7 +56,7 @@ transition: .5s ease-out;
      background-color: rgb(66, 63, 94);
 }
 .sidebar li ul ul li:hover {
-    background-color: rgb(115, 112, 134);;
+    background-color: rgb(115, 112, 134);
 }
 .sidebar .li {
        pointer-events: none;
@@ -404,10 +404,20 @@ flex-wrap: wrap;
         margin: 1em 2em;
 
     }
-
-@media screen and (max-width: 1200px) {
-    .image-shadow {
-        float:none;
-        margin: 2em auto;
-    }
-    }
+th, td {
+    border-color:rgb(115, 112, 134);
+}
+tr:hover td, tr:hover th {
+    background-color: #2a2745!important;
+}
+th {
+    background-color: #2a2745;
+    color:white;
+    font-family: 'Fondamento',cursive;
+}
+table {
+    border-radius: 10px;
+}
+.picker {
+    padding:5px;
+}
