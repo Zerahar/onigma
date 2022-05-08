@@ -1,13 +1,13 @@
 /* @font-face {
     font-family: medieval;
-    src: url("/dokuwiki/lib/tpl/onigmabook/catchilds.ttf");
+    src: url("/lib/tpl/onigmabook/catchilds.ttf");
   } */
 body {
     font-family:'Aladin';
     font-size:1.15em;
     min-height:100%;
     background-color: #26211c;
-background-image: url("/dokuwiki/lib/exe/fetch.php?media=purty-wood.png");
+background-image: url("/lib/exe/fetch.php?media=purty-wood.png");
 letter-spacing: 1px;
 font-size: 1.3em;
 }
@@ -67,7 +67,7 @@ box-sizing: border-box;
     margin:-5px auto;
 }
 .sidebar-nav>ul>li:hover>.li {
-    background-image: url("/dokuwiki/lib/exe/fetch.php?media=ink.png");
+    background-image: url("/lib/exe/fetch.php?media=ink.png");
     animation-name: ink; 
     animation-duration: .2s;
     animation-timing-function: steps(6);
@@ -209,12 +209,12 @@ color:white;
     content: "pageview";
 }
 .top.tools-container {
-    background-image: url("/dokuwiki/lib/exe/fetch.php?media=scrolltop.png");
+    background-image: url("/lib/exe/fetch.php?media=scrolltop.png");
     align-items: center;
 }
 .text-container {
     padding: 1px 100px;
-    background-image: url("/dokuwiki/lib/exe/fetch.php?media=scrollbg.png");
+    background-image: url("/lib/exe/fetch.php?media=scrollbg.png");
     background-repeat: round;
     background-size: cover;
 }
@@ -224,7 +224,7 @@ color:white;
 }
 .bottom {
     justify-content: right;
-    background-image: url("/dokuwiki/lib/exe/fetch.php?media=scrollbot.png");
+    background-image: url("/lib/exe/fetch.php?media=scrollbot.png");
     align-items: center;
 }
 .main-content{
@@ -234,7 +234,7 @@ color:white;
     display:none;
 }
 img.mediacenter, img.mediaright, img.medialeft, img.media, img.tn {
-    border-image: url("/dokuwiki/lib/exe/fetch.php?media=medborder.jpg") 20 round !important;
+    border-image: url("/lib/exe/fetch.php?media=medborder.jpg") 20 round !important;
  border-width: 20px!important;
  border-style: solid;
 }
@@ -250,7 +250,7 @@ img.mediacenter {
     margin: 1em auto!important;
 }
 .text-container .level2>ul, .wrap_box ul {
-    list-style-image: url("/dokuwiki/lib/exe/fetch.php?media=seal.png");
+    list-style-image: url("/lib/exe/fetch.php?media=seal.png");
 }
 
 .dw__toc {
