@@ -1,0 +1,464 @@
+/* @font-face {
+    font-family: medieval;
+    src: url("/dokuwiki/lib/tpl/onigmabook/catchilds.ttf");
+  } */
+body {
+    font-family:'Aladin';
+    font-size:1.15em;
+    min-height:100%;
+    background-color: #26211c;
+background-image: url("/dokuwiki/lib/exe/fetch.php?media=purty-wood.png");
+letter-spacing: 1px;
+font-size: 1.3em;
+}
+html {
+    height:100%;
+}
+
+a:active, p a {
+color:white;
+}
+.admin_tasks a, .admin_plugins a {
+color:white;
+}
+.admin_tasks path, .admin_plugins path {
+fill:white;
+}
+h1,h2,h3,h4,.tags a {
+    color:black;
+    font-family: 'MedievalSharp', cursive;
+}
+.sidebar {
+width:20%;
+padding:2em 0 2em 2em;
+box-sizing: border-box;
+}
+.sidebar h1 a{
+    color:white!important;
+    font-size:1.6em;
+}
+.sidebarh1 {
+    text-align: right;
+}
+.sidebar ul {
+    list-style-type: none;
+    padding:5px 0 0 0;
+    width:100%;
+    display: flex;
+flex-direction: column;
+align-items: end;
+}
+.sidebar li {
+    display: block;
+       cursor: pointer;
+       margin:0;
+       color:white!important;
+text-align: right;
+padding:0;
+box-sizing: border-box;
+}
+.sidebar-nav .li {
+    text-transform: capitalize;
+    width:170px;
+    min-height:50px;
+    pointer-events: none;
+    height: 100%;
+    line-height: 50px;
+    margin:-5px auto;
+}
+.sidebar-nav>ul>li:hover>.li {
+    background-image: url("/dokuwiki/lib/exe/fetch.php?media=ink.png");
+    animation-name: ink; 
+    animation-duration: .2s;
+    animation-timing-function: steps(6);
+    background-repeat: no-repeat;
+    background-position: left;
+    animation-fill-mode: forwards;
+}
+@keyframes ink {
+    from {background-position: 0;}
+    to { background-position: -1020px; }
+  }
+  .pagetools li:hover {
+      text-shadow: 0 0 5px white;
+  }
+.sidebar li ul ul li:hover {
+background: none!important;
+animation: none;
+text-shadow: 0 0 5px white;
+}
+.sidebar li a {
+    width:100%;
+    height:100%;
+    display: block;
+pointer-events: initial;
+/* padding:10px 0 10px 20px; */
+color:white!important;
+box-sizing: border-box;
+}
+.sidebar a:hover {
+    text-decoration: none;
+}
+.sidebar-nav ul ul {
+    display: none;
+}
+.sidebar-nav ul ul ul {
+    display: block;
+}
+.node {
+    padding: 10px 0 10px 20px;
+    box-sizing: border-box;
+}
+.show {
+    display:block!important;
+}
+.show li {
+    padding-right:1em;
+    line-height: 30px;
+}
+.show  ul {
+        animation-name: slideDown;
+    animation-duration: .5s;
+    margin: -20px auto 1em auto;
+}
+@keyframes slideDown {
+    0% { 
+opacity:0;
+    }
+  
+    100% {
+opacity: 1;
+    }
+  }
+
+.site {
+    max-width:1500px;
+    display: flex;
+    margin: 0 auto;
+}
+.navbar-top {
+    display: flex;
+    align-content: space-between;
+    padding-top:2em;
+}
+.tools-container ul {
+list-style-type: none;
+padding: 0;
+display: flex;
+margin:0;
+}
+.tools-container li {
+    display: inline;
+    margin:0;
+}
+.tools-container {
+    display: flex;
+    justify-content: end;
+    width:100%;
+    align-items: center;
+        box-sizing: border-box;
+        padding: 0 100px;
+        height:175px;
+        background-repeat: round;
+}
+.tools-container .action {
+        width:40px;
+    height:40px;
+    display: inline-block;
+    color:black;
+}
+.tools-container .action a {
+    visibility: hidden;
+    position: relative;
+width:100%;
+height:100%;
+    display:inline-block;
+    color:black;
+}
+.tools-container .action a:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+        font-family: 'Material Icons';
+        font-size: 22px;
+
+}
+.tools-container .action a:hover:after {
+color:white;
+}
+.action.profile a:after {
+        content: "account_circle";
+}
+.action.admin a:after {
+    content: "settings";
+}
+.action.logout a:after {
+    content: "logout";
+}
+.action.login a:after {
+    content: "login";
+}
+.action.recent a:after {
+    content: "history";
+}
+.action.media a:after {
+    content: "photo_library";
+}
+.action.index a:after {
+    content: "pageview";
+}
+.top.tools-container {
+    background-image: url("/dokuwiki/lib/exe/fetch.php?media=scrolltop.png");
+    align-items: center;
+}
+.text-container {
+    padding: 1px 100px;
+    background-image: url("/dokuwiki/lib/exe/fetch.php?media=scrollbg.png");
+    background-repeat: round;
+    background-size: cover;
+}
+.text-container p {
+    text-align: justify;
+    line-height:1.5;
+}
+.bottom {
+    justify-content: right;
+    background-image: url("/dokuwiki/lib/exe/fetch.php?media=scrollbot.png");
+    align-items: center;
+}
+.main-content{
+    width:1000px;
+}
+.secedit {
+    display:none;
+}
+img.mediacenter, img.mediaright, img.medialeft, img.media, img.tn {
+    border-image: url("/dokuwiki/lib/exe/fetch.php?media=medborder.jpg") 20 round !important;
+ border-width: 20px!important;
+ border-style: solid;
+}
+img.medialeft {
+    max-width: 300px;
+    margin: 1em 1.5em 1em 0!important;
+}
+img.mediaright {
+    margin: 1em  0 1em 1.5em!important;
+    max-width: 300px;
+}
+img.mediacenter {
+    margin: 1em auto!important;
+}
+.text-container .level2>ul, .wrap_box ul {
+    list-style-image: url("/dokuwiki/lib/exe/fetch.php?media=seal.png");
+}
+
+.dw__toc {
+    padding: .5em;
+    box-shadow: 0 0 5px black;
+border:3px solid #c4a962;
+}
+.dw__toc a {
+    color:black;
+}
+.dw__toc div {
+    font-size: .9em;
+}
+.dw__toc h3 {
+    margin-bottom: .5em;
+}
+.toc li {
+    margin: 5px 0!important;
+}
+.timeline {
+    width:auto;
+}
+.direction-r {
+    width:50%;
+    margin-left:50%;
+}
+.direction-l {
+    width:50%;
+}
+.flag:before {
+    position: relative;
+}
+.direction-r .flag:before {
+    float:left;
+}
+.direction-l .flag:before {
+    float:right;
+}
+  .tags span {
+      background: none!important;
+  }
+  .tags {
+      padding:1em 0 0 0;
+      margin-bottom:0;
+      letter-spacing: normal;
+
+  }
+  .tags .wikilink1 {
+            color:black!important;
+      font-size: .9em;
+      text-decoration: underline;
+  }
+  .level2 a.wikilink1 {
+      text-decoration: underline;
+      color:#333!important;
+  }
+  .level2 a.wikilink1:hover {
+      color:#6f170c!important;
+  }
+  a.wikilink2 {
+      color:#6f170c!important;
+}
+.search button, .search-form button {
+    visibility: hidden;
+    position: relative;
+    margin-left:1em;
+}
+.search button:after, .search-form button:after {
+    visibility: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+        font-family: 'Material Icons';
+        font-size: 22px;
+        content: 'search';
+
+}
+.toggleAssistant:after {
+    content:'expand_more'!important;
+    right:.5em;
+}
+.search-form {
+    border: none!important;
+    display: flex;
+justify-content: center;
+flex-wrap:wrap;
+}
+.search button:hover:after, .search-form button:hover:after {
+}
+.search input, .search-form input, .wrap_box {
+    border-radius: 10px;
+padding: 5px 0 5px 10px;
+
+background-color: #6f170c;
+box-shadow: 0 0 5px black;
+border:3px solid #c4a962;
+color:white;
+}
+.search input:focus,  .search-form input:focus {
+    background-color: #490f08;
+}
+textarea.edit {
+    box-sizing: border-box;
+    border: none;
+padding: 1em;
+border-radius: 15px;
+}
+button {
+    border:none;
+}
+.editButtons button, #size__ctl {
+    border-radius: 10px;
+    border:3px solid #c4a962;
+    background-color: #6f170c;
+    box-shadow: 0 0 5px black;
+    color:white;
+    padding:.4em;
+    margin:.5em .2em;
+}
+.editButtons button:hover {
+    background-color: #490f08;
+}
+.toolbutton {
+    border-radius:0;
+    background:none;
+    box-shadow: none;
+    line-height: unset;
+}
+.toolbutton:hover {
+    background-color: rgba(0, 0, 0, 0.158);
+    border-radius: 100%;
+}
+.summary {
+    display: none!important;
+}
+.wrap_box ul {
+    padding:0;
+    margin:0;
+}
+.wrap_box li::marker {
+}
+.wrap_box p {
+    padding:0;
+}
+.wrap_box {
+    padding:1em!important;
+}
+.wrap_right {
+    margin-left:2em!important;
+}
+.wrap_left {
+    margin-right:2em!important;
+}
+#mediamgr__aside, #mediamgr__content {
+    background-color:#e8dbc6;
+}
+#mediamgr__aside h1 {
+    font-family: 'Lucida Handwriting', cursive;
+}
+.gallery a.lightbox {
+    font-family: 'MedievalSharp',cursive;
+    font-size:1.2em;
+    display: block;
+}
+.gallery a {
+    color:black;
+}
+.gallery {
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.gallery img {
+    transition: transform .5s ease;
+    min-height: 300px;
+    min-width: 360px;
+    margin:0!important;
+    }
+    .gallery a.lightbox:hover img {
+      
+    }
+    .gallery .tn {
+        padding: 0!important;
+    }
+    .gallery div {
+        margin: 1em 2em;
+
+    }
+th, td {
+    padding: .3em .7em;
+    border-color: #c4a962;
+}
+.inline tr:hover td, tr:hover th {
+    background-color: #490f08!important;
+}
+th {
+    font-family: 'MedievalSharp',cursive;
+    font-size:.9em;
+    background-color: #490f08;
+}
+table.inline {
+    border-radius: 10px;
+    border-radius: 10px;
+    border:3px solid #c4a962;
+    background-color: #6f170c;
+    box-shadow: 0 0 5px black;
+    color:white;
+}
+.picker {
+    padding:5px;
+}

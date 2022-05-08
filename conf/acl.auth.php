@@ -27,3 +27,4 @@ sieluoppaat	@ALL	0
 urthuxemur	@ALL	0
 wraxiris_tulenluoma	@ALL	0
 remia	@ALL	0
+ocir_zammith_dm	@ALL	0

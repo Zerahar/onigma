@@ -1,0 +1,5 @@
+{{ :kaarnakka.jpg?nolink&400|}}
+====== Kaarnakat ======
+Eläviä, puumaisia olentoja, jotka vartioivat metsiä. Heidän kulttuurinsa on äärimmäisen hidastempoista ja käsittämätöntä sivistyneille roduille.
+
+{{tag>lajit}}

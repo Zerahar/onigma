@@ -1,4 +1,4 @@
-{{ :sorgul.jpg?nolink& 400|}}
+{{:sorgul.jpg?nolink&400|}}
 ====== Sorgul Mor ======
 Juonitteleva ja vihattu jumala, jolle kaikki ovat kuitenkin kiitollisuudenvelassa.
 <WRAP right round box 30%>

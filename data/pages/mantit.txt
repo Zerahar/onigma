@@ -1,0 +1,5 @@
+{{ :mantti.jpg?nolink&400|}}
+====== Mantit ======
+Lohikäärmeiden kaukaisia sukulaisia, jotka muistuttavat enemmänkin isoja liskoja. Mantteja on monen kokoisia: pienimpiä pidetään koiran kaltaisina lemmikkeinä, keskikokoisia ratsuina ja suurimmat (ja harvinaisimmat) voivat aiheuttaa todellista uhkaa asutuksille.
+
+{{tag>lajit}}
