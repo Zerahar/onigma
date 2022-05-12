@@ -60,13 +60,11 @@ $sidebarElement = tpl_getConf('sidebarIsNav') ? 'nav' : 'aside';
             }
         }
     }
-
 });
 
 function toggleMenu(e) {
     e.target.querySelector("ul").classList.toggle("show")
 }
-
 
 </script>
     <div id="dokuwiki__top" class="site <?php echo tpl_classes(); ?> <?php

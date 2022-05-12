@@ -28,3 +28,6 @@ urthuxemur	@ALL	0
 wraxiris_tulenluoma	@ALL	0
 remia	@ALL	0
 ocir_zammith_dm	@ALL	0
+kaikkeusavain	@ALL	0
+maailman_synty	@ALL	0
+reku_huuhkahiippa	@ALL	0

@@ -70,9 +70,9 @@ Maahiskylä katoaa jälkiä jättämättä <a href="/dokuwiki/doku.php?id=maailm
 <p>
 Tulivuorenpurkaus aiheuttaa maanjäristyksiä ja laavaa valuu hieman <a href="/dokuwiki/doku.php?id=lohikaeaermeen_heimo" class="wikilink1" title="lohikaeaermeen_heimo" data-wiki-id="lohikaeaermeen_heimo">Lohikäärmeen heimo</a>n alueelle. Tuhkapilvi pilaa seuraavan sadon.
 </p>
-";}i:18;a:3:{s:4:"date";s:8:"80. aika";s:5:"title";s:15:"Toraleirin tuho";s:11:"description";s:221:"
+";}i:18;a:3:{s:4:"date";s:8:"80. aika";s:5:"title";s:15:"Toraleirin tuho";s:11:"description";s:206:"
 <p>
-Lohikäärmeen heimon tukikohta, <a href="/dokuwiki/doku.php?id=toraleiri" class="wikilink2" title="toraleiri" rel="nofollow" data-wiki-id="toraleiri">Toraleiri</a>, tuhoutuu valtavan vajoaman nielaistessa sen.
+Lohikäärmeen heimon tukikohta, <a href="/dokuwiki/doku.php?id=toraleiri" class="wikilink1" title="toraleiri" data-wiki-id="toraleiri">Toraleiri</a>, tuhoutuu valtavan vajoaman nielaistessa sen.
 </p>
 ";}i:19;a:3:{s:4:"date";s:8:"81. aika";s:5:"title";s:19:"Kivettymisrutto ★";s:11:"description";s:141:"
 <p>

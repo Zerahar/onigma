@@ -2,5 +2,8 @@
 [[:oktarin_laakso|Oktarin laakso]]
 {{topic>Oktarin_laakso +paikat&simplelist}}
 
+[[:baugorin_rannikko|Baugorin rannikko]]
+{{topic>Baugorin_rannikko +paikat&simplelist}}
+
 Muut
-{{topic>paikat -Oktarin_laakso&simplelist}}
+{{topic>paikat -Oktarin_laakso -Baugorin_rannikko&simplelist}}

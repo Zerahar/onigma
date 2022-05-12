@@ -1,0 +1,7 @@
+====== Jäinen aava ======
+Pohjoisen [[Eetterimeri|Eetterimeren]] rannalla oleva hyinen alue, jolla on muinaista historiaa. 
+===== Kartta =====
+{{ :kartat:oktarinkartta.jpg?nolink& |}}
+===== Aiheeseen liittyvät sivut =====
+{{topic>jainen_aava&simplelist}}
+{{tag>paikat alueet}}

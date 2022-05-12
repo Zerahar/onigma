@@ -237,6 +237,8 @@ img.mediacenter, img.mediaright, img.medialeft, img.media, img.tn {
     border-image: url("/lib/exe/fetch.php?media=medborder.jpg") 20 round !important;
  border-width: 20px!important;
  border-style: solid;
+ max-width: 100%;
+ box-sizing: border-box;
 }
 img.medialeft {
     max-width: 300px;
@@ -273,6 +275,9 @@ border:3px solid #c4a962;
 .timeline {
     width:auto;
 }
+.timeline li {
+    margin-bottom: -150px;
+}
 .direction-r {
     width:50%;
     margin-left:50%;
@@ -289,6 +294,15 @@ border:3px solid #c4a962;
 .direction-l .flag:before {
     float:right;
 }
+.direction-l .flag-wrapper {
+    margin-right: 30px;
+}
+.direction-r .flag-wrapper {
+    margin-left: 30px;
+}
+.desc {
+    font-style: normal;
+}
   .tags span {
       background: none!important;
   }
@@ -303,11 +317,11 @@ border:3px solid #c4a962;
       font-size: .9em;
       text-decoration: underline;
   }
-  .level2 a.wikilink1 {
+  .text-container a.wikilink1, .desc a.wikilink1 {
       text-decoration: underline;
       color:#333!important;
   }
-  .level2 a.wikilink1:hover {
+  .text-container a.wikilink1:hover, .desc a.wikilink1:hover {
       color:#6f170c!important;
   }
   a.wikilink2 {
@@ -383,9 +397,7 @@ button {
     background-color: rgba(0, 0, 0, 0.158);
     border-radius: 100%;
 }
-.summary {
-    display: none!important;
-}
+
 .wrap_box ul {
     padding:0;
     margin:0;

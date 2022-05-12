@@ -1,20 +1,3 @@
-1651404710	127.0.0.1	C	kielet	zerahar	luotu		113
-1651404751	127.0.0.1	E	kategoria:maailma	zerahar			52
-1651404833	127.0.0.1	E	kielet	zerahar			95
-1651405044	127.0.0.1	E	kielet	zerahar			129
-1651405249	127.0.0.1	E	kielet	zerahar			712
-1651405328	127.0.0.1	E	kielet	zerahar			16
-1651405488	127.0.0.1	E	kielet	zerahar			-2
-1651405553	127.0.0.1	E	kielet	zerahar			11
-1651405702	127.0.0.1	E	maailmantasot	zerahar			-6
-1651405810	127.0.0.1	E	kielet	zerahar			111
-1651405851	127.0.0.1	E	kielet	zerahar			7
-1651411466	127.0.0.1	E	kielet	zerahar			11
-1651411562	127.0.0.1	E	kielet	zerahar			33
-1651734270	127.0.0.1	C	ocir_zammith_dm	zerahar	luotu		939
-1651734348	127.0.0.1	E	ocir_zammith	zerahar			26
-1651734373	127.0.0.1	E	ocir_zammith	zerahar			9
-1651734418	127.0.0.1	E	ocir_zammith	zerahar			0
 1651867855	127.0.0.1	C	ratsut	zerahar	luotu		668
 1651868060	127.0.0.1	C	kaarnakat	zerahar	luotu		212
 1651868102	127.0.0.1	E	kaarnakat	zerahar			15
@@ -24,3 +7,71 @@
 1651924702	127.0.0.1	E	sorgul_mor	zerahar			-1
 1651924885	127.0.0.1	E	sorgul_mor	zerahar			-1
 1651933434	127.0.0.1	E	anrok_khex	zerahar			31
+1652034975	127.0.0.1	C	toraleiri	zerahar	luotu		153
+1652034993	127.0.0.1	E	toraleiri	zerahar			31
+1652035565	127.0.0.1	E	toraleiri	zerahar			-14
+1652035692	127.0.0.1	C	raadonkruunu	zerahar	luotu		170
+1652035700	127.0.0.1	E	raadonkruunu	zerahar			0
+1652035712	127.0.0.1	E	raadonkruunu	zerahar			1
+1652035812	127.0.0.1	C	laitama	zerahar	luotu		214
+1652035825	127.0.0.1	E	toraleiri	zerahar			13
+1652035835	127.0.0.1	E	toraleiri	zerahar			-1
+1652035880	127.0.0.1	E	kyyroen_kylae	zerahar			3
+1652035900	127.0.0.1	E	raadonkruunu	zerahar			19
+1652035939	127.0.0.1	E	kaerjaen_kaupunki	zerahar			7
+1652035980	127.0.0.1	E	kategoria:maailma	zerahar			-3
+1652036044	127.0.0.1	E	hiidenhurtat	zerahar			9
+1652036070	127.0.0.1	E	aitohaltiat	zerahar			0
+1652036096	127.0.0.1	E	varjotitaani	zerahar			1
+1652098839	127.0.0.1	E	aitohaltiat	zerahar			-6
+1652098964	127.0.0.1	E	azerketit	zerahar			1
+1652099060	127.0.0.1	C	jahtilakeus	zerahar	luotu		145
+1652099295	127.0.0.1	E	jahtilakeus	zerahar			33
+1652099300	127.0.0.1	E	jahtilakeus	zerahar			0
+1652112956	127.0.0.1	E	anrok_khex	zerahar			9
+1652113237	127.0.0.1	E	anrok_khex	zerahar			319
+1652113443	127.0.0.1	C	kampanja:seikkailu_4	zerahar	luotu		436
+1652113463	127.0.0.1	E	kampanja:seikkailu_4	zerahar			19
+1652118344	127.0.0.1	C	rikkinaeiset_sivut	zerahar	luotu		72
+1652118463	127.0.0.1	D	wiki:welcome	zerahar	Remove page via multiORPHANS		-1705
+1652118578	127.0.0.1	C	hornansylin_tulivuori	zerahar	luotu		175
+1652118624	127.0.0.1	C	lohikaeaermeenmaa	zerahar	luotu		139
+1652118651	127.0.0.1	E	lohikaeaermeenmaa	zerahar			7
+1652118725	127.0.0.1	C	bogrinnummi	zerahar	luotu		85
+1652118751	127.0.0.1	E	naeaedaen_heimo	zerahar			-2
+1652118757	127.0.0.1	E	naeaedaen_heimo	zerahar			1
+1652118778	127.0.0.1	E	kuningas_iotr	zerahar			14
+1652118801	127.0.0.1	E	kampanja:iotrin_paluu	zerahar			14
+1652118863	127.0.0.1	E	laitama	zerahar			7
+1652118892	127.0.0.1	E	laitama	zerahar			7
+1652119118	127.0.0.1	E	laitama	zerahar			25
+1652119122	127.0.0.1	E	laitaman_kyla		ulkoinen muokkaus		233
+1652119150	127.0.0.1	E	laitaman_kyla	zerahar			-1
+1652190468	127.0.0.1	C	kaikkeusavain	zerahar	luotu		556
+1652191543	127.0.0.1	E	kaikkeusavain	zerahar			731
+1652201375	127.0.0.1	C	r_aadonkruunun_leiri	zerahar	↷ Page name changed from raadonkruunu to r_aadonkruunun_leiri		190
+1652201375	127.0.0.1	D	raadonkruunu	zerahar	↷ Page name changed from raadonkruunu to r_aadonkruunun_leiri		-190
+1652201383	127.0.0.1	C	raadonkruunun_leiri	zerahar	↷ Page name changed from r_aadonkruunun_leiri to raadonkruunun_leiri		190
+1652201383	127.0.0.1	D	r_aadonkruunun_leiri	zerahar	↷ Page name changed from r_aadonkruunun_leiri to raadonkruunun_leiri		-190
+1652201399	127.0.0.1	C	korvensilmaen_kylae	zerahar	↷ Page name changed from korvensilmae to korvensilmaen_kylae		1018
+1652201399	127.0.0.1	D	korvensilmae	zerahar	↷ Page name changed from korvensilmae to korvensilmaen_kylae		-1018
+1652201903	127.0.0.1	C	arkkikyyn_kammio	zerahar	luotu		119
+1652253315	127.0.0.1	E	haltiat	zerahar			568
+1652253328	127.0.0.1	E	haltiat	zerahar			0
+1652253663	127.0.0.1	E	varjolaiset	zerahar			746
+1652253669	127.0.0.1	E	varjolaiset	zerahar			0
+1652253677	127.0.0.1	E	varjolaiset	zerahar			-1
+1652253700	127.0.0.1	E	varjolaiset	zerahar			2
+1652253707	127.0.0.1	E	varjolaiset	zerahar			-1
+1652253732	127.0.0.1	E	varjolaiset	zerahar			0
+1652253757	127.0.0.1	E	varjolaiset	zerahar			0
+1652254402	127.0.0.1	C	ekonomia	zerahar	luotu		41
+1652254746	127.0.0.1	E	ekonomia	zerahar			711
+1652255820	127.0.0.1	C	baugorin_rannikko	zerahar	luotu		150
+1652255865	127.0.0.1	E	baugorin_rannikko	zerahar			78
+1652255873	127.0.0.1	E	baugorin_rannikko	zerahar			-3
+1652274436	127.0.0.1	C	kortos	zerahar	luotu		299
+1652274496	127.0.0.1	E	kategoria:paikat	zerahar			108
+1652274527	127.0.0.1	E	kategoria:paikat	zerahar			0
+1652274752	127.0.0.1	C	seran_kehto	zerahar	luotu		368
+1652275315	127.0.0.1	C	jaeinen_aava	zerahar	luotu		278

@@ -2,4 +2,4 @@
 ====== Hiidenhurtat ======
 Viekkaita ja vaikeasti koulutettavia eläimiä, joiden kanssa toimiessa hygieniasta on syytä pitää erityistä huolta. Hiidenhurtat voivat näet levittää hiisirokkoa, joka on melko vaaraton mutta silti kovin ikävä tauti.
 
-{{tag>lajit}}
+{{tag>lajit eläimet}}

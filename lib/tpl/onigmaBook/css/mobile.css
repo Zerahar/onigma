@@ -84,10 +84,6 @@
 
 } /* /@media */
 @media screen and (max-width: 1200px) {
-    .image-shadow {
-        float:none;
-        margin: 2em auto;
-    }
     .sidebar {
         overflow-y:scroll;
         padding-left: 0;
@@ -148,16 +144,27 @@ display: block;
         display: none;
     }
     .top.tools-container {
-        margin-bottom: -50px;
+        background-image: url("/lib/exe/fetch.php?media=scrolltop_mobile.png");
     }
-    .mediaright, .medialeft, .mediacenter, .media {
+    .bottom {
+        background-image: url("/lib/exe/fetch.php?media=scrollbot_mobile.png");
+    }
+    .tools-container {
+        height:100px;
+    }
+    .mediaright, .medialeft, .mediacenter, img.media {
         float:none;
         width:90%;
         margin: 1em auto!important;
         max-width: unset!important;
+        box-sizing: unset;
     }
     .text-container {
         background-size: contain;
         position:relative;
+        padding:1px 40px;
+    }
+    .tools-container {
+        padding: 0 40px;
     }
     }
