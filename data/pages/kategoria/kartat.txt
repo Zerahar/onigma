@@ -1,1 +1,3 @@
-{{gallery>:kartat?512x480&0&showtitle}}
+====== Kartat ======
+
+{{topic>kartat&simplelist}}

@@ -88,6 +88,7 @@
         overflow-y:scroll;
         padding-left: 0;
         padding-right: 0;
+        min-width: 200px;
     }
     .main-content {
         
@@ -110,13 +111,24 @@ display: block;
     }
 
     .text-container {
-        padding-bottom: 0;
+        padding: 1px 60px 0 60px;
     }
     .sidebar ul {
         align-items: center;
     }
     .show li {
         padding: 0;
+    }
+    .top.tools-container {
+        background-image: url("/lib/exe/fetch.php?media=scrolltop_mobile.png");
+        padding: 20px 60px 0 60px;
+    }
+    .bottom {
+        background-image: url("/lib/exe/fetch.php?media=scrollbot_mobile.png");
+        padding: 0 60px 20px 60px;
+    }
+    .tools-container {
+        height:100px;
     }
     }
     @media screen and (max-width: 800px) {
@@ -133,6 +145,7 @@ display: block;
             #dw__toc {
         width:unset;
         float:none;
+        margin: 0 0 1em 0;
     }
     .sidebar {
         padding:0;
@@ -143,15 +156,6 @@ display: block;
     .pagetools {
         display: none;
     }
-    .top.tools-container {
-        background-image: url("/lib/exe/fetch.php?media=scrolltop_mobile.png");
-    }
-    .bottom {
-        background-image: url("/lib/exe/fetch.php?media=scrollbot_mobile.png");
-    }
-    .tools-container {
-        height:100px;
-    }
     .mediaright, .medialeft, .mediacenter, img.media {
         float:none;
         width:90%;
@@ -160,11 +164,20 @@ display: block;
         box-sizing: unset;
     }
     .text-container {
-        background-size: contain;
+        background-image: url("/lib/exe/fetch.php?media=natural-paper.png");
         position:relative;
         padding:1px 40px;
+        background-color: #e7dac5;
     }
     .tools-container {
-        padding: 0 40px;
+        padding: 0 20px;
+        background-image: url("/lib/exe/fetch.php?media=natural-paper.png")!important;
+        background-color: #e7dac5;
+    }
+    .top.tools-container {
+        border-top: 3px solid #c4a962;
+    }
+    .bottom.tools-container {
+        border-bottom: 3px solid #c4a962;
     }
     }

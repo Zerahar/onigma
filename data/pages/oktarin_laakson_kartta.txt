@@ -1,16 +1,32 @@
 ====== Oktarin laakson kartta ======
 
-{{map>kartat:oktarinkartta.jpg}}
-[[Harmaasalo|Harmaasalo @ 300,245,600,520]]
-[[Bogrinnummi|Bogrinnummi @ 320,600,800,815]]
-[[Jahtilakeus|Jahtilakeus @ 1000,860,1700,1150]]
-[[Kiroviita|Kiroviita @ 1570,500,1830,760]]
-[[Punkkisuo|Punkkisuo @ 1100,560,1550,820]]
-[[Lohikäärmeenmaa|Lohikäärmeenmaa @ 600,1150,1430,1320]]
-[[Tulikoto|Tulikoto @ 380,900,660,1130]]
-[[Korppisaaret|Korppisaaret @ 500,0,820,150]]
-[[Vanha Asrangol|Vanha Asrangol @ 660,200,970,316]]
-[[Jättienlehto|Jättienlehto @800,375,1300,530 ]]
-[[Jäälaki|Jäälaki @ 1300,160,1630,470]]
+<html><div id="mapContainer"><div id="map">
+<img  src="/dokuwiki/lib/exe/fetch.php?media=kartat:oktarin_kangas_kartta.png"/>
+
+<a href="/dokuwiki/doku.php?id=laitaman kylä">
+<div class="popBtn" style="left: 660px;top: 370px;">
+<div><span>place</span> <span>house</span></div>
+<div class="popTooltip">Laitama</div></div>
+</a>
+
+<a href="/dokuwiki/doku.php?id=korvensilmän kylä">
+<div class="popBtn" style="left: 650px;top:260px;">
+<div><span>place</span> <span>house</span></div>
+<div class="popTooltip">Korvensilmä</div></div>
+</a>
+
+<a href="/dokuwiki/doku.php?id=kyyrön kylä">
+<div class="popBtn" style="left: 690px;top: 180px;">
+<div><span>place</span> <span>house</span></div>
+<div class="popTooltip">Kyyrö</div></div>
+</a>
+
+<a href="/dokuwiki/doku.php?id=kärjän kaupunki">
+<div class="popBtn" style="left: 245px;top: 215px;">
+<div><span>place</span> <span>location_city</span></div>
+<div class="popTooltip">Kärjä</div></div>
+</a>
+
+</div></div></html>
 
 {{tag>kartat}}

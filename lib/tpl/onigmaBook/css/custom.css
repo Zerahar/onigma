@@ -1,7 +1,7 @@
-/* @font-face {
-    font-family: medieval;
-    src: url("/lib/tpl/onigmabook/catchilds.ttf");
-  } */
+@font-face {
+    font-family: MedievalInitial;
+    src: url("/lib/tpl/onigmabook/squac___.ttf");
+  }
 body {
     font-family:'Aladin';
     font-size:1.15em;
@@ -216,7 +216,6 @@ color:white;
     padding: 1px 100px;
     background-image: url("/lib/exe/fetch.php?media=scrollbg.png");
     background-repeat: round;
-    background-size: cover;
 }
 .text-container p {
     text-align: justify;
@@ -254,7 +253,12 @@ img.mediacenter {
 .text-container .level2>ul, .wrap_box ul {
     list-style-image: url("/lib/exe/fetch.php?media=seal.png");
 }
-
+.level1>p:first-of-type:first-letter {
+    font-family:MedievalInitial, cursive;
+    font-size:3em;
+    font-style: normal;
+    float:left;
+}
 .dw__toc {
     padding: .5em;
     box-shadow: 0 0 5px black;
@@ -310,7 +314,7 @@ border:3px solid #c4a962;
       padding:1em 0 0 0;
       margin-bottom:0;
       letter-spacing: normal;
-
+border-top:none!important;
   }
   .tags .wikilink1 {
             color:black!important;
@@ -407,9 +411,6 @@ button {
 .wrap_box p {
     padding:0;
 }
-.wrap_box {
-    padding:1em!important;
-}
 .wrap_right {
     margin-left:2em!important;
 }
@@ -473,4 +474,48 @@ table.inline {
 }
 .picker {
     padding:5px;
+}
+#mapContainer {
+    height:566px;
+    width:800px;
+    position: relative;
+    overflow: clip;
+}
+#map {
+    position: absolute;
+    width:800px;
+}
+.popBtn {
+    position: absolute;
+    color:white;
+    text-shadow: 0 0 3px black;
+    font-family: 'Material Icons';
+        font-size: 24px;
+        background:none;
+        display: flex;
+flex-direction: column;
+align-items: center;
+}
+.popTooltip {
+    color:white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+    font-size:8px;
+    font-family: 'MedievalSharp', cursive;
+    font-weight: bold;
+    visibility: hidden;
+    line-height: 0;
+}
+.popBtn:hover .popTooltip {
+    visibility: visible;
+}
+.popBtn>div {
+position: relative;
+}
+.popBtn span:nth-child(2) {
+    color:black;
+    text-shadow: none;
+font-size: 12px;
+left: 6px;
+top: 6px;
+position: absolute;
 }

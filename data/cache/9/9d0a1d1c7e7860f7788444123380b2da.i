@@ -1,12 +1,28 @@
-a:31:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:22:"Oktarin laakson kartta";i:1;i:1;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:1;}i:2;i:1;}i:3;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1;}i:4;a:3:{i:0;s:13:"externalmedia";i:1;a:7:{i:0;s:28:"map>kartat:oktarinkartta.jpg";i:1;N;i:2;N;i:3;N;i:4;N;i:5;s:5:"cache";i:6;s:7:"details";}i:2;i:39;}i:5;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:71;}i:6;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:10:"Harmaasalo";i:1;s:28:"Harmaasalo @ 300,245,600,520";}i:2;i:72;}i:7;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:115;}i:8;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:11:"Bogrinnummi";i:1;s:29:"Bogrinnummi @ 320,600,800,815";}i:2;i:116;}i:9;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:161;}i:10;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:11:"Jahtilakeus";i:1;s:32:"Jahtilakeus @ 1000,860,1700,1150";}i:2;i:162;}i:11;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:210;}i:12;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:9:"Kiroviita";i:1;s:29:"Kiroviita @ 1570,500,1830,760";}i:2;i:211;}i:13;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:254;}i:14;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:9:"Punkkisuo";i:1;s:29:"Punkkisuo @ 1100,560,1550,820";}i:2;i:255;}i:15;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:298;}i:16;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:17:"Lohikäärmeenmaa";i:1;s:38:"Lohikäärmeenmaa @ 600,1150,1430,1320";}i:2;i:299;}i:17;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:359;}i:18;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:8:"Tulikoto";i:1;s:27:"Tulikoto @ 380,900,660,1130";}i:2;i:360;}i:19;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:400;}i:20;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:12:"Korppisaaret";i:1;s:28:"Korppisaaret @ 500,0,820,150";}i:2;i:401;}i:21;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:446;}i:22;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:14:"Vanha Asrangol";i:1;s:32:"Vanha Asrangol @ 660,200,970,316";}i:2;i:447;}i:23;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:498;}i:24;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:13:"Jättienlehto";i:1;s:32:"Jättienlehto @800,375,1300,530 ";}i:2;i:499;}i:25;a:3:{i:0;s:5:"cdata";i:1;a:1:{i:0;s:1:"
-";}i:2;i:549;}i:26;a:3:{i:0;s:12:"internallink";i:1;a:2:{i:0;s:9:"Jäälaki";i:1;s:29:"Jäälaki @ 1300,160,1630,470";}i:2;i:550;}i:27;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:593;}i:28;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:7:"tag_tag";i:1;a:1:{i:0;s:6:"kartat";}i:2;i:5;i:3;s:14:"{{tag>kartat}}";}i:2;i:595;}i:29;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:609;}i:30;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:609;}}
+a:9:{i:0;a:3:{i:0;s:14:"document_start";i:1;a:0:{}i:2;i:0;}i:1;a:3:{i:0;s:6:"header";i:1;a:3:{i:0;s:22:"Oktarin laakson kartta";i:1;i:1;i:2;i:1;}i:2;i:1;}i:2;a:3:{i:0;s:12:"section_open";i:1;a:1:{i:0;i:1;}i:2;i:1;}i:3;a:3:{i:0;s:6:"p_open";i:1;a:0:{}i:2;i:1;}i:4;a:3:{i:0;s:4:"html";i:1;a:1:{i:0;s:950:"<div id="mapContainer"><div id="map">
+<img  src="/dokuwiki/lib/exe/fetch.php?media=kartat:oktarin_kangas_kartta.png"/>
+
+<a href="/dokuwiki/doku.php?id=laitaman kylä">
+<div class="popBtn" style="left: 660px;top: 370px;">
+<div><span>place</span> <span>house</span></div>
+<div class="popTooltip">Laitama</div></div>
+</a>
+
+<a href="/dokuwiki/doku.php?id=korvensilmän kylä">
+<div class="popBtn" style="left: 650px;top:260px;">
+<div><span>place</span> <span>house</span></div>
+<div class="popTooltip">Korvensilmä</div></div>
+</a>
+
+<a href="/dokuwiki/doku.php?id=kyyrön kylä">
+<div class="popBtn" style="left: 690px;top: 180px;">
+<div><span>place</span> <span>house</span></div>
+<div class="popTooltip">Kyyrö</div></div>
+</a>
+
+<a href="/dokuwiki/doku.php?id=kärjän kaupunki">
+<div class="popBtn" style="left: 245px;top: 215px;">
+<div><span>place</span> <span>location_city</span></div>
+<div class="popTooltip">Kärjä</div></div>
+</a>
+
+</div></div>";}i:2;i:45;}i:5;a:3:{i:0;s:7:"p_close";i:1;a:0:{}i:2;i:1002;}i:6;a:3:{i:0;s:6:"plugin";i:1;a:4:{i:0;s:7:"tag_tag";i:1;a:1:{i:0;s:6:"kartat";}i:2;i:5;i:3;s:14:"{{tag>kartat}}";}i:2;i:1004;}i:7;a:3:{i:0;s:13:"section_close";i:1;a:0:{}i:2;i:1018;}i:8;a:3:{i:0;s:12:"document_end";i:1;a:0:{}i:2;i:1018;}}
