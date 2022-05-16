@@ -1,6 +1,6 @@
 @font-face {
     font-family: MedievalInitial;
-    src: url("/lib/tpl/onigmabook/squac___.ttf");
+    src: url("/lib/exe/fetch.php?media=squac___.ttf");
   }
 body {
     font-family:'Aladin';
