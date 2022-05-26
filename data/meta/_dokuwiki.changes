@@ -1,55 +1,3 @@
-1652098839	127.0.0.1	E	aitohaltiat	zerahar			-6
-1652098964	127.0.0.1	E	azerketit	zerahar			1
-1652099060	127.0.0.1	C	jahtilakeus	zerahar	luotu		145
-1652099295	127.0.0.1	E	jahtilakeus	zerahar			33
-1652099300	127.0.0.1	E	jahtilakeus	zerahar			0
-1652112956	127.0.0.1	E	anrok_khex	zerahar			9
-1652113237	127.0.0.1	E	anrok_khex	zerahar			319
-1652113443	127.0.0.1	C	kampanja:seikkailu_4	zerahar	luotu		436
-1652113463	127.0.0.1	E	kampanja:seikkailu_4	zerahar			19
-1652118344	127.0.0.1	C	rikkinaeiset_sivut	zerahar	luotu		72
-1652118463	127.0.0.1	D	wiki:welcome	zerahar	Remove page via multiORPHANS		-1705
-1652118578	127.0.0.1	C	hornansylin_tulivuori	zerahar	luotu		175
-1652118624	127.0.0.1	C	lohikaeaermeenmaa	zerahar	luotu		139
-1652118651	127.0.0.1	E	lohikaeaermeenmaa	zerahar			7
-1652118725	127.0.0.1	C	bogrinnummi	zerahar	luotu		85
-1652118751	127.0.0.1	E	naeaedaen_heimo	zerahar			-2
-1652118757	127.0.0.1	E	naeaedaen_heimo	zerahar			1
-1652118778	127.0.0.1	E	kuningas_iotr	zerahar			14
-1652118801	127.0.0.1	E	kampanja:iotrin_paluu	zerahar			14
-1652118863	127.0.0.1	E	laitama	zerahar			7
-1652118892	127.0.0.1	E	laitama	zerahar			7
-1652119118	127.0.0.1	E	laitama	zerahar			25
-1652119122	127.0.0.1	E	laitaman_kyla		ulkoinen muokkaus		233
-1652119150	127.0.0.1	E	laitaman_kyla	zerahar			-1
-1652190468	127.0.0.1	C	kaikkeusavain	zerahar	luotu		556
-1652191543	127.0.0.1	E	kaikkeusavain	zerahar			731
-1652201375	127.0.0.1	C	r_aadonkruunun_leiri	zerahar	↷ Page name changed from raadonkruunu to r_aadonkruunun_leiri		190
-1652201375	127.0.0.1	D	raadonkruunu	zerahar	↷ Page name changed from raadonkruunu to r_aadonkruunun_leiri		-190
-1652201383	127.0.0.1	C	raadonkruunun_leiri	zerahar	↷ Page name changed from r_aadonkruunun_leiri to raadonkruunun_leiri		190
-1652201383	127.0.0.1	D	r_aadonkruunun_leiri	zerahar	↷ Page name changed from r_aadonkruunun_leiri to raadonkruunun_leiri		-190
-1652201399	127.0.0.1	C	korvensilmaen_kylae	zerahar	↷ Page name changed from korvensilmae to korvensilmaen_kylae		1018
-1652201399	127.0.0.1	D	korvensilmae	zerahar	↷ Page name changed from korvensilmae to korvensilmaen_kylae		-1018
-1652201903	127.0.0.1	C	arkkikyyn_kammio	zerahar	luotu		119
-1652253315	127.0.0.1	E	haltiat	zerahar			568
-1652253328	127.0.0.1	E	haltiat	zerahar			0
-1652253663	127.0.0.1	E	varjolaiset	zerahar			746
-1652253669	127.0.0.1	E	varjolaiset	zerahar			0
-1652253677	127.0.0.1	E	varjolaiset	zerahar			-1
-1652253700	127.0.0.1	E	varjolaiset	zerahar			2
-1652253707	127.0.0.1	E	varjolaiset	zerahar			-1
-1652253732	127.0.0.1	E	varjolaiset	zerahar			0
-1652253757	127.0.0.1	E	varjolaiset	zerahar			0
-1652254402	127.0.0.1	C	ekonomia	zerahar	luotu		41
-1652254746	127.0.0.1	E	ekonomia	zerahar			711
-1652255820	127.0.0.1	C	baugorin_rannikko	zerahar	luotu		150
-1652255865	127.0.0.1	E	baugorin_rannikko	zerahar			78
-1652255873	127.0.0.1	E	baugorin_rannikko	zerahar			-3
-1652274436	127.0.0.1	C	kortos	zerahar	luotu		299
-1652274496	127.0.0.1	E	kategoria:paikat	zerahar			108
-1652274527	127.0.0.1	E	kategoria:paikat	zerahar			0
-1652274752	127.0.0.1	C	seran_kehto	zerahar	luotu		368
-1652275315	127.0.0.1	C	jaeinen_aava	zerahar	luotu		278
 1652457500	127.0.0.1	E	oktarin_laakson_kartta	zerahar			-555
 1652458820	127.0.0.1	E	oktarin_laakson_kartta	zerahar			347
 1652459177	127.0.0.1	E	oktarin_laakson_kartta	zerahar			35
@@ -84,3 +32,31 @@
 1652694595	127.0.0.1	E	kategoria:kartat	zerahar			-12
 1652694605	127.0.0.1	E	kategoria:kartat	zerahar			22
 1652717539	127.0.0.1	E	oktarin_laakson_kartta	zerahar			-45
+1652819927	127.0.0.1	E	kampanja:seikkailu_4	zerahar			626
+1652820115	127.0.0.1	C	kampanja:seikkailu_5	zerahar	luotu		457
+1652820191	127.0.0.1	E	korvensilmaen_kylae	zerahar			85
+1652820257	127.0.0.1	E	lohikaeaermeen_heimo	zerahar			88
+1652820294	127.0.0.1	E	lohikaeaermeen_heimo	zerahar			7
+1652874605	127.0.0.1	E	lohikaeaermeen_heimo	zerahar			0
+1652882499	127.0.0.1	E	oktarin_laakson_kartta	zerahar			45
+1652882657	127.0.0.1	E	oktarin_laakson_kartta	zerahar			204
+1652882710	127.0.0.1	E	oktarin_laakson_kartta	zerahar			0
+1652882740	127.0.0.1	E	oktarin_laakson_kartta	zerahar			7
+1652882827	127.0.0.1	C	haldalin_vuori	zerahar	luotu		182
+1652882870	127.0.0.1	E	oktarin_laakson_kartta	zerahar			0
+1652882969	127.0.0.1	E	oktarin_laakson_kartta	zerahar			221
+1652883015	127.0.0.1	E	oktarin_laakson_kartta	zerahar			-1
+1652883130	127.0.0.1	E	oktarin_laakson_kartta	zerahar			216
+1652883188	127.0.0.1	E	oktarin_laakson_kartta	zerahar			0
+1652883198	127.0.0.1	E	oktarin_laakson_kartta	zerahar			0
+1652883218	127.0.0.1	E	oktarin_laakson_kartta	zerahar			0
+1652883709	127.0.0.1	C	huktokot	zerahar	luotu		133
+1652883816	127.0.0.1	E	huktokot	zerahar			32
+1652883824	127.0.0.1	E	huktokot	zerahar			0
+1652902439	127.0.0.1	E	kampanja:seikkailu_5	zerahar			73
+1652902537	127.0.0.1	E	kampanja:seikkailu_5	zerahar			111
+1652902620	127.0.0.1	C	kampanja:kohtaamisia	zerahar	luotu		157
+1652943125	127.0.0.1	E	kategoria:kampanja	zerahar			124
+1652943158	127.0.0.1	E	kampanja:kohtaamisia	zerahar			16
+1652943325	127.0.0.1	E	kampanja:kohtaamisia	zerahar			467
+1652943440	127.0.0.1	C	kivettymisrutto	zerahar	luotu		286

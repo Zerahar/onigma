@@ -1,0 +1,11 @@
+====== Kohtaamisia ======
+Sattumanvaraisia kohtaamisia, joihin pelaajat voivat törmätä matkoillaan.
+===== Jahtilakeus =====
+==== Eläindiplomatiaa ====
+Villieläimet uhkaavat matkaajia, mutta jokin on ajanut ne liikkeelle.
+==== Kivettynyt leiri ====
+Hieman suojaisessa notkossa on hyvin vanha leiripaikka, missä entisen nuotion ääressä istuu neljä kivettynyttä henkilöä. He ovat muistutus [[:Kivettymisrutto|Kivettymisrutosta]].
+==== Obeliski ====
+Ruohikkoisella tasanteella seisoo valtavan korkea, obsidiaaninen obeliski. Se on seissyt siinä aikojen alusta, [[:aitohaltiat|aitohaltioiden]]aikakaudelta saakka.
+
+{{tag>kampanja}}

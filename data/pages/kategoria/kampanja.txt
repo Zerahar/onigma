@@ -1,3 +1,8 @@
 ====== Kampanja ======
+===== Oktarin ratsastajat =====
 
 {{topic>Oktarin_ratsastajat&simplelist}}
+
+===== Muu pelinjohtajamateriaali =====
+
+{{topic>kampanja -Oktarin_ratsastajat&simplelist}}
